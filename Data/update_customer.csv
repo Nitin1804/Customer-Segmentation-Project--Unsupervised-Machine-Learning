@@ -1,0 +1,748 @@
+,cust_id,income,Tier_income,age,Age_Group,years_with_bank,nbr_children,gender,marital_status,first_name,last_name,state_code,Region
+0,1362691,26150,Low Middle,46,40-49,5,1,M ,2,Donald                                                      ,Marek                                                       ,NV  ,West
+1,1362487,6605,Lowest,71,70-79,1,0,M ,2,ChingDyi                                                    ,Moussavi                                                    ,CA  ,West
+2,1363160,18548,Low Middle,38,30-39,8,0,F ,1,Rosa                                                        ,Johnston                                                    ,CA  ,West
+3,1362752,47668,High Middle,54,50-59,3,0,F ,1,Lisa                                                        ,Martin                                                      ,CA  ,West
+4,1362548,44554,High Middle,59,50-59,9,2,F ,4,Barbara                                                     ,O'Malley                                                    ,NY  ,Northeast
+5,1362813,15684,Low Middle,53,50-59,3,2,F ,2,Terry                                                       ,Eubanks                                                     ,IL  ,Midwest
+6,1363017,0,,16,10-19,1,0,M ,1,Tim                                                         ,McMillen                                                    ,CA  ,West
+7,1362609,1929,Lowest,79,70-79,8,0,F ,2,Sandy                                                       ,Rayhanian                                                   ,HI  ,West
+8,1363486,39942,Low Middle,41,40-49,1,5,F ,4,Jill                                                        ,Campbell                                                    ,HI  ,West
+9,1363078,9622,Lowest,46,40-49,6,1,M ,2,Christopher                                                 ,McVicker                                                    ,HI  ,West
+10,1363282,25829,Low Middle,29,20-29,8,0,F ,1,Betty                                                       ,Gausman                                                     ,DC  ,South
+11,1363343,0,,15,10-19,0,0,M ,1,Robin                                                       ,Shin                                                        ,TX  ,South
+12,1362527,17622,Low Middle,44,40-49,1,0,M ,2,Chuck                                                       ,Flynn                                                       ,CA  ,West
+13,1362670,8877,Lowest,26,20-29,5,0,F ,1,Lynn                                                        ,Wolf                                                        ,CA  ,West
+14,1362996,23351,Low Middle,51,50-59,1,2,F ,2,Robin                                                       ,Johnson                                                     ,PA  ,Northeast
+15,1362935,0,,15,10-19,0,0,M ,1,Duncan                                                      ,Paul                                                        ,OR  ,West
+16,1363465,10516,Lowest,41,40-49,1,1,M ,4,Harvey                                                      ,Hudson                                                      ,CA  ,West
+17,1363404,0,,17,10-19,2,0,M ,1,Jacob                                                       ,Matthews                                                    ,OH  ,Midwest
+18,1362588,6354,Lowest,66,60-69,6,0,M ,2,Geneve                                                      ,McGough                                                     ,WA  ,West
+19,1363200,21015,Low Middle,18,10-19,3,0,M ,1,Owen                                                        ,Maloney                                                     ,CA  ,West
+20,1362853,26505,Low Middle,50,50-59,0,1,F ,2,Sally                                                       ,Matsumoto                                                   ,NJ  ,Northeast
+21,1362792,3158,Lowest,80,80-89,0,0,M ,2,Eric                                                        ,Parent                                                      ,NY  ,Northeast
+22,1363322,66930,High Middle,58,50-59,8,0,F ,2,Angela                                                      ,Herreweyers                                                 ,IN  ,Midwest
+23,1363261,19494,Low Middle,46,40-49,6,0,F ,1,Paula                                                       ,Wittenberg                                                  ,NY  ,Northeast
+24,1363179,19334,Low Middle,42,40-49,2,2,F ,4,Kathy                                                       ,Glover                                                      ,IL  ,Midwest
+25,1363057,6493,Lowest,74,70-79,4,0,F ,2,Carmen                                                      ,Williamson                                                  ,NY  ,Northeast
+26,1363444,3171,Lowest,22,20-29,1,1,F ,2,Cecilia                                                     ,McLaughlin                                                  ,CA  ,West
+27,1362649,8976,Lowest,28,20-29,7,1,F ,2,Demi                                                        ,Garrison                                                    ,NY  ,Northeast
+28,1362567,30664,Low Middle,56,50-59,6,1,F ,2,Kimberly                                                    ,Telles                                                      ,CA  ,West
+29,1363383,21751,Low Middle,64,60-69,4,0,M ,2,Ron                                                         ,Schnack                                                     ,CO  ,West
+30,1363036,24326,Low Middle,60,60-69,0,0,F ,2,Cynthia                                                     ,Erceg                                                       ,WI  ,Midwest
+31,1362506,76087,High Middle,52,50-59,2,1,M ,2,Jeff                                                        ,Troester                                                    ,CA  ,West
+32,1362832,56597,High Middle,31,30-39,1,2,F ,2,Connie                                                      ,Raco                                                        ,MI  ,Midwest
+33,1362975,36330,Low Middle,46,40-49,6,1,M ,2,Nick                                                        ,Mevawalla                                                   ,NB  ,Midwest
+34,1363301,39991,Low Middle,40,40-49,0,0,F ,1,Chris                                                       ,Owings                                                      ,AZ  ,West
+35,1362771,24344,Low Middle,32,30-39,2,2,F ,2,Brenda                                                      ,Khanijow                                                    ,IL  ,Midwest
+36,1362893,0,,15,10-19,7,0,M ,1,Dean                                                        ,Kirchmer                                                    ,OR  ,West
+37,1363097,21663,Low Middle,54,50-59,4,1,F ,2,Margarita                                                   ,Justice                                                     ,HI  ,West
+38,1363158,13148,Lowest,48,40-49,8,0,M ,1,Carlo                                                       ,Ryback                                                      ,OH  ,Midwest
+39,1362485,22690,Low Middle,25,20-29,4,0,F ,1,Elvira                                                      ,Linderman                                                   ,NY  ,Northeast
+40,1362546,10025,Lowest,35,30-39,5,0,F ,2,Joyce                                                       ,Levy                                                        ,NY  ,Northeast
+41,1362954,43317,High Middle,30,30-39,0,3,F ,2,Judith                                                      ,Palmer                                                      ,CA  ,West
+42,1363015,24545,Low Middle,52,50-59,2,1,F ,2,Debbie                                                      ,McMillen                                                    ,CA  ,West
+43,1363219,18036,Low Middle,36,30-39,6,2,F ,2,Kathy                                                       ,Higgins                                                     ,NY  ,Northeast
+44,1363484,10244,Lowest,52,50-59,2,0,F ,1,Blanche                                                     ,Takahashi                                                   ,MN  ,Midwest
+45,1362811,8011,Lowest,82,80-89,2,0,F ,2,Daniel                                                      ,Hoff                                                        ,PA  ,Northeast
+46,1362607,24450,Low Middle,44,40-49,4,1,M ,2,Johnson                                                     ,Celio                                                       ,WA  ,West
+47,1363280,7571,Lowest,23,20-29,2,1,F ,4,May                                                         ,Thomas                                                      ,TN  ,South
+48,1362872,17099,Low Middle,47,40-49,7,2,F ,3,June                                                        ,Bradley                                                     ,CA  ,West
+49,1363076,47083,High Middle,43,40-49,3,1,F ,2,Marsha                                                      ,Richards                                                    ,NY  ,Northeast
+50,1362729,0,,13,10-19,5,0,M ,1,Bruce                                                       ,Kraus                                                       ,NY  ,Northeast
+51,1362668,0,,13,10-19,5,0,M ,1,Chiman                                                      ,Boyd                                                        ,CA  ,West
+52,1363198,60104,High Middle,56,50-59,6,2,M ,2,Hal                                                         ,Maloney                                                     ,CA  ,West
+53,1362933,19823,Low Middle,55,50-59,5,1,M ,2,Hubbert                                                     ,Paul                                                        ,OR  ,West
+54,1362586,24476,Low Middle,46,40-49,6,0,F ,1,Blanche                                                     ,Norris                                                      ,VA  ,South
+55,1363402,24368,Low Middle,63,60-69,3,0,F ,1,Inge                                                        ,McLain                                                      ,NY  ,Northeast
+56,1363055,34473,Low Middle,52,50-59,2,1,M ,2,Steve                                                       ,Clark                                                       ,WI  ,Midwest
+57,1362525,6300,Lowest,77,70-79,7,0,F ,1,Virginia                                                    ,Murray                                                      ,IL  ,Midwest
+58,1362851,51608,High Middle,39,30-39,4,0,M ,1,Kalin                                                       ,Niedelman                                                   ,TX  ,South
+59,1363259,7335,Lowest,28,20-29,7,1,M ,2,Carl                                                        ,Lennan                                                      ,CA  ,West
+60,1362912,29064,Low Middle,35,30-39,5,3,M ,2,Vincent                                                     ,Alpert                                                      ,NY  ,Northeast
+61,1362504,0,,15,10-19,0,0,F ,1,Tammy                                                       ,Carrington                                                  ,CA  ,West
+62,1362708,15246,Low Middle,29,20-29,4,0,M ,1,Peter                                                       ,Roberts                                                     ,NY  ,Northeast
+63,1362973,17242,Low Middle,60,60-69,0,0,F ,1,Amelia                                                      ,Hanson                                                      ,PA  ,Northeast
+64,1363442,144157,Highest,58,50-59,5,0,M ,2,Alex                                                        ,Gins                                                        ,TX  ,South
+65,1362769,27885,Low Middle,34,30-39,3,0,F ,1,Kathy                                                       ,Liu                                                         ,CA  ,West
+66,1362565,27492,Low Middle,49,40-49,9,0,F ,1,Carmen                                                      ,Pike                                                        ,CA  ,West
+67,1363238,5788,Lowest,35,30-39,5,2,F ,2,Kim                                                         ,Lew                                                         ,TX  ,South
+68,1362891,0,,15,10-19,7,0,F ,1,Molly                                                       ,Kirchmer                                                    ,OR  ,West
+69,1362830,10933,Lowest,18,10-19,3,0,F ,1,Lisa                                                        ,Roberson                                                    ,PA  ,Northeast
+70,1363217,15724,Low Middle,41,40-49,1,0,F ,1,Janice                                                      ,Ozenbaugh                                                   ,CA  ,West
+71,1362626,15993,Low Middle,30,30-39,0,3,F ,2,Joanna                                                      ,Hemphill                                                    ,FL  ,South
+72,1363013,4435,Lowest,65,60-69,5,0,F ,2,Malisa                                                      ,Schissler                                                   ,NY  ,Northeast
+73,1363095,12396,Lowest,60,60-69,0,0,F ,2,Maxine                                                      ,Brownell                                                    ,NY  ,Northeast
+74,1363482,9129,Lowest,66,60-69,6,0,M ,2,Tim                                                         ,Sze                                                         ,CO  ,West
+75,1362687,7431,Lowest,37,30-39,7,1,F ,2,Daisy                                                       ,Parent                                                      ,OR  ,West
+76,1362605,16957,Low Middle,34,30-39,4,0,F ,2,Robyn                                                       ,Baker                                                       ,TN  ,South
+77,1362952,7633,Lowest,53,50-59,3,0,F ,2,Farrah                                                      ,O'Flaherty                                                  ,WA  ,West
+78,1363339,0,,14,10-19,6,0,F ,1,Sibyl                                                       ,Starkel                                                     ,CA  ,West
+79,1363421,1982,Lowest,28,20-29,7,0,M ,1,Kent                                                        ,Harper                                                      ,CA  ,West
+80,1362727,81509,Highest,41,40-49,1,1,F ,2,Pat                                                         ,Kraus                                                       ,NY  ,Northeast
+81,1362809,25180,Low Middle,56,50-59,6,1,F ,3,Jill                                                        ,Rostek                                                      ,IN  ,Midwest
+82,1363196,35502,Low Middle,42,40-49,2,0,F ,1,Kitty                                                       ,Aroori                                                      ,CA  ,West
+83,1362666,0,,15,10-19,7,0,F ,1,Harriet                                                     ,Boyd                                                        ,CA  ,West
+84,1363461,23108,Low Middle,69,60-69,9,0,F ,2,Caroline                                                    ,Ross                                                        ,MN  ,Midwest
+85,1363135,18350,Low Middle,38,30-39,5,2,F ,2,Rosalynn                                                    ,Hedegard                                                    ,CA  ,West
+86,1362584,12885,Lowest,61,60-69,1,0,F ,2,Molly                                                       ,Cole                                                        ,IL  ,Midwest
+87,1362931,39704,Low Middle,53,50-59,3,1,F ,2,Paulina                                                     ,Shen                                                        ,CA  ,West
+88,1363053,55061,High Middle,30,30-39,0,0,M ,1,Tam                                                         ,O'Brien                                                     ,MD  ,South
+89,1363400,49258,High Middle,49,40-49,9,0,F ,2,Priscilla                                                   ,Lackpour                                                    ,NY  ,Northeast
+90,1363318,7751,Lowest,41,40-49,1,2,F ,4,Beatrice                                                    ,Powers                                                      ,TX  ,South
+91,1362523,0,,13,10-19,5,0,F ,1,Julie                                                       ,Morton                                                      ,CA  ,West
+92,1362706,0,,15,10-19,7,0,F ,1,Lisa                                                        ,Dole                                                        ,MO  ,Midwest
+93,1362992,24534,Low Middle,40,40-49,0,0,F ,1,Pauline                                                     ,Lennan                                                      ,AZ  ,West
+94,1363175,0,,16,10-19,1,0,F ,1,Chris                                                       ,McLaughlin                                                  ,CA  ,West
+95,1363257,31910,Low Middle,44,40-49,4,0,M ,1,Terry                                                       ,Panfilov                                                    ,NY  ,Northeast
+96,1362767,0,,17,10-19,2,0,F ,1,Nellie                                                      ,Elliot                                                      ,IL  ,Midwest
+97,1362849,22001,Low Middle,44,40-49,4,0,F ,1,Lorraine                                                    ,Knowles                                                     ,TN  ,South
+98,1362563,14711,Lowest,73,70-79,3,0,M ,2,Yunqing                                                     ,McHugh                                                      ,IL  ,Midwest
+99,1362645,57194,High Middle,31,30-39,1,3,M ,4,Erin                                                        ,Kjolsing                                                    ,CA  ,West
+100,1362624,28867,Low Middle,77,70-79,7,0,F ,2,Sally                                                       ,Newton                                                      ,TX  ,South
+101,1362502,15530,Low Middle,57,50-59,7,2,M ,2,Gilbert                                                     ,Carrington                                                  ,CA  ,West
+102,1362481,20855,Low Middle,36,30-39,6,2,F ,2,Darby                                                       ,Beed                                                        ,NY  ,Northeast
+103,1362971,31040,Low Middle,60,60-69,0,0,F ,2,Harriet                                                     ,Putnam                                                      ,WA  ,West
+104,1362746,8810,Lowest,35,30-39,5,2,F ,2,Arlene                                                      ,Sinclair                                                    ,LA  ,South
+105,1363236,23206,Low Middle,64,60-69,4,0,M ,3,Teri                                                        ,Steele                                                      ,CA  ,West
+106,1363215,57723,High Middle,57,50-59,7,1,M ,4,Marty                                                       ,Lau                                                         ,NY  ,Northeast
+107,1362828,3994,Lowest,87,80-89,7,0,M ,2,Larry                                                       ,Jiang                                                       ,NY  ,Northeast
+108,1363011,90248,Highest,55,50-59,5,0,M ,4,Joe                                                         ,Wall                                                        ,NY  ,Northeast
+109,1363297,9351,Lowest,46,40-49,6,0,F ,1,Debbie                                                      ,McCreary                                                    ,AZ  ,West
+110,1363480,8038,Lowest,22,20-29,1,0,F ,1,Connie                                                      ,Harrington                                                  ,MD  ,South
+111,1363093,1039,Lowest,79,70-79,9,0,M ,2,Yasmine                                                     ,Larson                                                      ,MN  ,Midwest
+112,1363072,7495,Lowest,88,80-89,8,0,M ,2,Yoshito                                                     ,Henderson                                                   ,TX  ,South
+113,1362685,34080,Low Middle,49,40-49,2,0,F ,1,Rhonda                                                      ,Grimmer                                                     ,TX  ,South
+114,1362868,14877,Lowest,33,30-39,3,3,F ,2,Carmen                                                      ,Keller                                                      ,IL  ,Midwest
+115,1363154,2925,Lowest,29,20-29,8,2,F ,4,Kathy                                                       ,Johnson                                                     ,CA  ,West
+116,1363337,84335,Highest,43,40-49,3,4,F ,4,Michelle                                                    ,Starkel                                                     ,CA  ,West
+117,1362950,11935,Lowest,60,60-69,0,0,F ,2,Happy                                                       ,Warner                                                      ,KY  ,South
+118,1362929,83295,Highest,58,50-59,8,1,M ,4,Les                                                         ,Carter                                                      ,TX  ,South
+119,1362542,43900,High Middle,36,30-39,6,2,F ,2,Mayreen                                                     ,Hudson                                                      ,NY  ,Northeast
+120,1362725,68933,High Middle,52,50-59,2,1,M ,3,Syukuro                                                     ,Center                                                      ,MO  ,Midwest
+121,1363276,16422,Low Middle,32,30-39,2,3,M ,2,Charles                                                     ,Mealhouse                                                   ,MO  ,Midwest
+122,1363194,24275,Low Middle,55,50-59,5,1,F ,3,Sheila                                                      ,Hummel                                                      ,MO  ,Midwest
+123,1362664,30676,Low Middle,46,40-49,4,5,M ,4,Corey                                                       ,Boyd                                                        ,CA  ,West
+124,1363051,0,,14,10-19,6,0,M ,1,Johnson                                                     ,Wollmann                                                    ,OK  ,South
+125,1363133,12823,Lowest,66,60-69,6,0,F ,1,Lila                                                        ,Coleman                                                     ,OK  ,South
+126,1362643,6356,Lowest,18,10-19,3,0,F ,1,Julie                                                       ,Hood                                                        ,NY  ,Northeast
+127,1363398,13811,Lowest,50,50-59,0,0,F ,3,Elsie                                                       ,Larichev                                                    ,NB  ,Midwest
+128,1363377,5488,Lowest,33,30-39,3,3,F ,2,Darby                                                       ,Milby                                                       ,CA  ,West
+129,1362990,0,,16,10-19,1,0,F ,1,May                                                         ,Swanson                                                     ,TX  ,South
+130,1363173,27649,Low Middle,58,50-59,8,1,M ,2,Moji                                                        ,McLaughlin                                                  ,CA  ,West
+131,1363459,11944,Lowest,40,40-49,0,1,M ,2,Justin                                                      ,King                                                        ,OR  ,West
+132,1362765,2769,Lowest,18,10-19,3,0,F ,1,Jenny                                                       ,Holloway                                                    ,CA  ,West
+133,1363255,17559,Low Middle,51,50-59,1,0,F ,2,Vivian                                                      ,Romen                                                       ,CA  ,West
+134,1363234,12202,Lowest,79,70-79,9,0,M ,2,Charles                                                     ,Bender                                                      ,TN  ,South
+135,1363316,18144,Low Middle,28,20-29,5,0,F ,1,Farrah                                                      ,Smith                                                       ,KY  ,South
+136,1362622,34797,Low Middle,69,60-69,9,0,M ,1,Rich                                                        ,Matser                                                      ,CA  ,West
+137,1363112,13295,Lowest,38,30-39,8,3,F ,2,Maria                                                       ,Shelton                                                     ,CA  ,West
+138,1363091,0,,15,10-19,0,0,M ,1,Nick                                                        ,Johnston                                                    ,TX  ,South
+139,1362500,56708,High Middle,40,40-49,0,0,M ,1,Dan                                                         ,Young                                                       ,TX  ,South
+140,1362887,79057,High Middle,57,50-59,6,0,M ,3,Dan                                                         ,Ruegsegger                                                  ,TN  ,South
+141,1362969,75121,High Middle,58,50-59,8,0,F ,4,Brenda                                                      ,Shropshire                                                  ,IL  ,Midwest
+142,1363356,12258,Lowest,39,30-39,9,3,F ,2,Patty                                                       ,Meyer                                                       ,CA  ,West
+143,1363438,2644,Lowest,23,20-29,2,1,M ,2,Joshua                                                      ,Frost                                                       ,TX  ,South
+144,1362948,28864,Low Middle,59,50-59,9,1,M ,4,George                                                      ,Burger                                                      ,CA  ,West
+145,1362826,0,,15,10-19,0,0,F ,1,Marjorie                                                    ,Hills                                                       ,CA  ,West
+146,1362744,3618,Lowest,89,80-89,9,0,F ,2,Elizabeth                                                   ,Dixit                                                       ,WI  ,Midwest
+147,1363295,4391,Lowest,66,60-69,6,0,F ,4,Janice                                                      ,Johnson                                                     ,AZ  ,West
+148,1363213,38010,Low Middle,60,60-69,0,0,M ,2,Jaime                                                       ,Keith                                                       ,OH  ,Midwest
+149,1362683,44288,High Middle,34,30-39,4,1,F ,2,Julio                                                       ,Masina                                                      ,CA  ,West
+150,1363070,5808,Lowest,19,10-19,1,0,F ,1,Farrah                                                      ,Pauly                                                       ,IL  ,Midwest
+151,1362540,49731,High Middle,62,60-69,2,0,F ,2,Maryjane                                                    ,Raco                                                        ,IL  ,Midwest
+152,1363335,2807,Lowest,54,50-59,2,0,F ,2,Lynn                                                        ,Pike                                                        ,MN  ,Midwest
+153,1363009,95585,Highest,53,50-59,3,1,M ,2,Corey                                                       ,Winton                                                      ,CO  ,West
+154,1362927,15795,Low Middle,63,60-69,3,0,M ,2,Kevin                                                       ,Pieper                                                      ,OH  ,Midwest
+155,1362805,4626,Lowest,78,70-79,8,0,F ,3,Dana                                                        ,Williamson                                                  ,NY  ,Northeast
+156,1363192,10151,Lowest,34,30-39,4,0,M ,4,Thomas                                                      ,Morton                                                      ,CA  ,West
+157,1362662,4604,Lowest,65,60-69,5,0,F ,2,Cecily                                                      ,Muller                                                      ,NY  ,Northeast
+158,1362784,55678,High Middle,43,40-49,3,5,M ,2,Bill                                                        ,Bailey                                                      ,MO  ,Midwest
+159,1362723,40898,High Middle,39,30-39,8,1,M ,2,Albert                                                      ,Marxen                                                      ,NY  ,Northeast
+160,1363253,39291,Low Middle,58,50-59,8,1,F ,4,Maria                                                       ,Green                                                       ,IL  ,Midwest
+161,1363457,86744,Highest,57,50-59,7,0,M ,2,Adisak                                                      ,Hanson                                                      ,VA  ,South
+162,1362641,3419,Lowest,28,20-29,7,0,F ,1,Polly                                                       ,Huff                                                        ,OH  ,Midwest
+163,1362580,29363,Low Middle,36,30-39,6,3,F ,4,Mona                                                        ,Porter                                                      ,CA  ,West
+164,1362906,36675,Low Middle,36,30-39,6,2,M ,2,Andy                                                        ,McLendon                                                    ,CA  ,West
+165,1362845,73785,High Middle,43,40-49,2,3,M ,4,Almon                                                       ,Teeuwen                                                     ,CA  ,West
+166,1363375,11004,Lowest,72,70-79,2,0,F ,2,Esther                                                      ,Savage                                                      ,WI  ,Midwest
+167,1363314,11375,Lowest,26,20-29,5,1,M ,2,Keith                                                       ,Barnhart                                                    ,TX  ,South
+168,1362498,9849,Lowest,60,60-69,0,0,F ,2,Rhonda                                                      ,Warner                                                      ,NY  ,Northeast
+169,1362702,19789,Low Middle,39,30-39,9,0,M ,1,Hal                                                         ,Adamson                                                     ,KY  ,South
+170,1362763,21198,Low Middle,50,50-59,0,1,F ,2,Patricia                                                    ,Holloway                                                    ,CA  ,West
+171,1363171,36873,Low Middle,59,50-59,9,0,F ,2,Francine                                                    ,Meyer                                                       ,WI  ,Midwest
+172,1363232,9614,Lowest,65,60-69,5,0,F ,2,Sara                                                        ,Lennan                                                      ,NY  ,Northeast
+173,1362967,5022,Lowest,84,80-89,4,0,M ,2,Sandeep                                                     ,Marshall                                                    ,TX  ,South
+174,1362620,29995,Low Middle,31,30-39,1,0,M ,2,Chuck                                                       ,Drake                                                       ,TX  ,South
+175,1363436,6105,Lowest,26,20-29,5,1,F ,2,Lucy                                                        ,Reddy                                                       ,TN  ,South
+176,1363089,30500,Low Middle,57,50-59,7,2,F ,2,Ann                                                         ,Johnston                                                    ,TX  ,South
+177,1362824,69432,High Middle,58,50-59,8,2,F ,2,Sharon                                                      ,Hills                                                       ,CA  ,West
+178,1363354,12621,Lowest,66,60-69,6,0,F ,4,Colin                                                       ,Fitzgerald                                                  ,NY  ,Northeast
+179,1362681,30224,Low Middle,73,70-79,3,0,M ,2,Tomoaki                                                     ,Michelson                                                   ,CA  ,West
+180,1362742,18785,Low Middle,28,20-29,7,0,M ,1,Rob                                                         ,Brandon                                                     ,MN  ,Midwest
+181,1363150,0,,14,10-19,6,0,F ,1,Molly                                                       ,Satyanarayan                                                ,CA  ,West
+182,1363211,44472,High Middle,47,40-49,6,0,F ,1,Darby                                                       ,Floyd                                                       ,CA  ,West
+183,1363415,0,,16,10-19,1,0,F ,1,Rachel                                                      ,Quinn                                                       ,OH  ,Midwest
+184,1363068,57612,High Middle,58,50-59,8,2,M ,2,Jester                                                      ,Pauly                                                       ,IL  ,Midwest
+185,1363007,22437,Low Middle,64,60-69,4,0,M ,2,Forrest                                                     ,Flynn                                                       ,TX  ,South
+186,1362925,15077,Low Middle,74,70-79,4,0,F ,2,Rita                                                        ,Osterberg                                                   ,MD  ,South
+187,1363476,9916,Lowest,33,30-39,3,2,F ,2,Pat                                                         ,Merritt                                                     ,OH  ,Midwest
+188,1363394,12722,Lowest,49,40-49,9,0,F ,1,Debby                                                       ,Richards                                                    ,CA  ,West
+189,1363272,22758,Low Middle,30,30-39,0,2,F ,2,Marthe                                                      ,Scott                                                       ,CA  ,West
+190,1362782,29579,Low Middle,43,40-49,3,0,M ,1,Glenn                                                       ,Orzepowski                                                  ,CA  ,West
+191,1362864,17612,Low Middle,30,30-39,0,3,F ,4,June                                                        ,Mealhouse                                                   ,NY  ,Northeast
+192,1363251,18597,Low Middle,19,10-19,4,0,M ,1,Earl                                                        ,Hargett                                                     ,CA  ,West
+193,1363333,16865,Low Middle,19,10-19,4,0,F ,1,Beatrice                                                    ,O'Neil                                                      ,MN  ,Midwest
+194,1363047,14891,Lowest,43,40-49,3,4,M ,2,Hal                                                         ,Wollmann                                                    ,OK  ,South
+195,1363129,10430,Lowest,26,20-29,5,0,F ,1,Rosemary                                                    ,O'Neill                                                     ,NY  ,Northeast
+196,1362639,0,,14,10-19,6,0,F ,1,Lena                                                        ,Koehler                                                     ,CA  ,West
+197,1362721,7777,Lowest,18,10-19,3,0,F ,1,Alice                                                       ,Ryall                                                       ,CA  ,West
+198,1363108,27814,Low Middle,24,20-29,3,2,F ,2,Patricia                                                    ,Jacobsen                                                    ,TX  ,South
+199,1362986,41650,High Middle,30,30-39,0,3,M ,3,Gordon                                                      ,McConahay                                                   ,MA  ,Northeast
+200,1362904,18891,Low Middle,69,60-69,9,0,M ,3,Rodney                                                      ,Carrington                                                  ,IN  ,Midwest
+201,1363455,37471,Low Middle,55,50-59,5,1,F ,2,Nancy                                                       ,Fernandez                                                   ,MD  ,South
+202,1362496,0,,13,10-19,2,0,M ,1,Douglas                                                     ,McMillen                                                    ,TX  ,South
+203,1362578,0,,17,10-19,2,0,F ,1,Lucy                                                        ,Gins                                                        ,PA  ,Northeast
+204,1362965,28402,Low Middle,74,70-79,4,0,M ,2,Stewart                                                     ,Bockler                                                     ,WI  ,Midwest
+205,1362843,27303,Low Middle,59,50-59,9,1,F ,3,Teresa                                                      ,Pauly                                                       ,MA  ,Northeast
+206,1362761,13515,Lowest,23,20-29,2,1,M ,4,Scott                                                       ,Levy                                                        ,WI  ,Midwest
+207,1363312,29335,Low Middle,50,50-59,0,0,F ,2,Happy                                                       ,Kemper                                                      ,CA  ,West
+208,1363230,5940,Lowest,28,20-29,3,1,F ,2,Oliva                                                       ,Navarre                                                     ,KY  ,South
+209,1362700,6195,Lowest,75,70-79,5,0,F ,4,Flora                                                       ,Harrison                                                    ,CA  ,West
+210,1362822,13750,Lowest,19,10-19,1,0,M ,1,Louis                                                       ,Eggerman                                                    ,IL  ,Midwest
+211,1363169,13113,Lowest,19,10-19,4,0,F ,1,Mary                                                        ,Kaufmann                                                    ,IL  ,Midwest
+212,1362618,84120,Highest,57,50-59,7,0,M ,2,William                                                     ,Levy                                                        ,AZ  ,West
+213,1363434,41069,High Middle,57,50-59,7,0,M ,1,Roger                                                       ,Dole                                                        ,NY  ,Northeast
+214,1363087,3400,Lowest,18,10-19,3,0,F ,1,Carol                                                       ,Garcon                                                      ,OK  ,South
+215,1362557,19282,Low Middle,40,40-49,0,4,M ,4,Barry                                                       ,Kaufmann                                                    ,CA  ,West
+216,1363352,5772,Lowest,18,10-19,3,0,M ,1,Simona                                                      ,Seller                                                      ,TX  ,South
+217,1363026,49435,High Middle,44,40-49,4,4,M ,2,Vinod                                                       ,Hudson                                                      ,FL  ,South
+218,1363413,9146,Lowest,80,80-89,0,0,M ,4,Jorge                                                       ,O'Neill                                                     ,FL  ,South
+219,1363495,19639,Low Middle,36,30-39,3,3,F ,3,Joy                                                         ,Hicks                                                       ,CA  ,West
+220,1363209,32739,Low Middle,59,50-59,9,0,F ,1,Marjorie                                                    ,Freeman                                                     ,MI  ,Midwest
+221,1363291,34855,Low Middle,40,40-49,0,2,M ,4,Pat                                                         ,Pauly                                                       ,TX  ,South
+222,1362801,12485,Lowest,24,20-29,3,2,M ,4,Sri                                                         ,McMillen                                                    ,GA  ,South
+223,1362883,12403,Lowest,31,30-39,1,3,M ,2,Lee                                                         ,Osterberg                                                   ,IL  ,Midwest
+224,1363270,0,,16,10-19,1,0,M ,1,Irv                                                         ,Carpenter                                                   ,TX  ,South
+225,1363148,32551,Low Middle,47,40-49,7,5,M ,2,Arthur                                                      ,Satyanarayan                                                ,CA  ,West
+226,1363066,3240,Lowest,64,60-69,1,0,M ,1,Marc                                                        ,Hines                                                       ,CA  ,West
+227,1362740,2715,Lowest,61,60-69,1,0,M ,2,Craig                                                       ,Parsons                                                     ,PA  ,Northeast
+228,1362658,45629,High Middle,44,40-49,4,2,F ,3,Brooke                                                      ,Park                                                        ,MI  ,Midwest
+229,1363005,6144,Lowest,22,20-29,1,0,F ,2,Mona                                                        ,Williams                                                    ,TX  ,South
+230,1363127,0,,16,10-19,1,0,F ,1,Isabel                                                      ,Paul                                                        ,VA  ,South
+231,1363474,3339,Lowest,20,20-29,5,0,F ,1,Denise                                                      ,Kemper                                                      ,CA  ,West
+232,1362923,0,,15,10-19,7,0,M ,1,Duke                                                        ,Besa                                                        ,KS  ,Midwest
+233,1362597,12106,Lowest,19,10-19,4,0,M ,1,Hung                                                        ,Lanzante                                                    ,TX  ,South
+234,1363392,0,,17,10-19,2,0,F ,1,Lana                                                        ,Insko                                                       ,NY  ,Northeast
+235,1362862,0,,15,10-19,5,0,M ,1,Wayne                                                       ,Pieper                                                      ,CA  ,West
+236,1363249,61885,High Middle,52,50-59,2,2,F ,2,Gina                                                        ,Hargett                                                     ,CA  ,West
+237,1363331,31054,Low Middle,55,50-59,5,2,M ,2,Eric                                                        ,O'Neil                                                      ,MN  ,Midwest
+238,1362637,23973,Low Middle,45,40-49,5,0,F ,1,Daisy                                                       ,McSherry                                                    ,HI  ,West
+239,1362719,23843,Low Middle,59,50-59,9,1,F ,2,Jill                                                        ,Schimmelpfennig                                             ,IL  ,Midwest
+240,1363371,3551,Lowest,27,20-29,4,2,F ,2,Cheryl                                                      ,Bush                                                        ,CA  ,West
+241,1363453,12728,Lowest,35,30-39,2,0,M ,1,John                                                        ,Putnam                                                      ,FL  ,South
+242,1362963,4508,Lowest,69,60-69,4,0,F ,1,Teri                                                        ,Chan                                                        ,NC  ,South
+243,1362902,18760,Low Middle,48,40-49,5,0,F ,1,Nina                                                        ,Denham                                                      ,NY  ,Northeast
+244,1363228,36237,Low Middle,41,40-49,1,0,M ,1,Doug                                                        ,Huub                                                        ,MA  ,Northeast
+245,1362698,49623,High Middle,55,50-59,5,1,F ,4,Alice                                                       ,Grolemund                                                   ,TX  ,South
+246,1362820,129196,Highest,55,50-59,5,2,M ,3,Yoshio                                                      ,Eggerman                                                    ,IL  ,Midwest
+247,1363167,39703,Low Middle,38,30-39,8,0,F ,1,Victoria                                                    ,Newell                                                      ,NJ  ,Northeast
+248,1363289,19300,Low Middle,57,50-59,7,1,M ,2,Jeffrey                                                     ,Quine                                                       ,CA  ,West
+249,1362759,27258,Low Middle,69,60-69,9,0,F ,2,Oliver                                                      ,Song                                                        ,CA  ,West
+250,1363085,25681,Low Middle,56,50-59,6,2,M ,2,Guy                                                         ,Garcon                                                      ,OK  ,South
+251,1362555,26598,Low Middle,57,50-59,6,0,M ,2,Matt                                                        ,Bailey                                                      ,CA  ,West
+252,1362677,11812,Lowest,32,30-39,2,2,M ,4,Forrest                                                     ,Woolf                                                       ,OK  ,South
+253,1363493,30068,Low Middle,69,60-69,5,0,M ,2,Randy                                                       ,Reynolds                                                    ,TX  ,South
+254,1362942,17165,Low Middle,38,30-39,6,2,M ,2,Tony                                                        ,Russell                                                     ,TX  ,South
+255,1362881,12690,Lowest,55,50-59,5,0,M ,2,Bob                                                         ,Shaw                                                        ,AZ  ,West
+256,1363268,35508,Low Middle,56,50-59,6,1,F ,2,Blanche                                                     ,Carpenter                                                   ,TX  ,South
+257,1363146,8381,Lowest,44,40-49,4,0,F ,2,Dilpreet                                                    ,Gavin                                                       ,NJ  ,Northeast
+258,1362656,17584,Low Middle,64,60-69,4,0,M ,4,Lee                                                         ,O'Malley                                                    ,TX  ,South
+259,1363207,10919,Lowest,73,70-79,3,0,M ,2,Art                                                         ,Garrison                                                    ,IL  ,Midwest
+260,1363390,12973,Lowest,50,50-59,0,2,M ,2,B.Q.                                                        ,Insko                                                       ,NY  ,Northeast
+261,1363003,7968,Lowest,68,60-69,8,0,M ,2,David                                                       ,Sands                                                       ,NY  ,Northeast
+262,1362513,28058,Low Middle,32,30-39,2,2,F ,4,Rebecca                                                     ,Campbell                                                    ,NY  ,Northeast
+263,1362595,29241,Low Middle,58,50-59,5,2,F ,2,Angie                                                       ,Lanzante                                                    ,TX  ,South
+264,1362982,0,,15,10-19,7,0,F ,1,Dawn                                                        ,Reagan                                                      ,IL  ,Midwest
+265,1363064,0,,13,10-19,5,0,F ,1,Isabel                                                      ,Gold                                                        ,NY  ,Northeast
+266,1363247,19686,Low Middle,64,60-69,4,0,F ,2,Michelle                                                    ,Raphael                                                     ,OH  ,Midwest
+267,1362860,0,,15,10-19,7,0,F ,1,Kathy                                                       ,Pieper                                                      ,CA  ,West
+268,1362839,43315,High Middle,33,30-39,3,3,M ,3,Abkar                                                       ,Melber                                                      ,MD  ,South
+269,1362921,19987,Low Middle,45,40-49,5,2,F ,3,Nora                                                        ,Besa                                                        ,KS  ,Midwest
+270,1362492,40252,High Middle,40,40-49,0,5,F ,3,Maggie                                                      ,McMillen                                                    ,TX  ,South
+271,1362717,0,,16,10-19,1,0,F ,1,Tammy                                                       ,Reidy                                                       ,NY  ,Northeast
+272,1362961,5505,Lowest,18,10-19,3,0,F ,1,Marlene                                                     ,Finley                                                      ,NC  ,South
+273,1363186,0,,15,10-19,0,0,M ,1,Quinn                                                       ,Marxen                                                      ,OH  ,Midwest
+274,1363287,18449,Low Middle,39,30-39,9,0,M ,2,Elbert                                                      ,Michael                                                     ,OH  ,Midwest
+275,1362574,26763,Low Middle,31,30-39,1,2,F ,2,Priscilla                                                   ,Lerma                                                       ,NY  ,Northeast
+276,1363083,22680,Low Middle,64,60-69,4,0,M ,1,Geoffrey                                                    ,Boggs                                                       ,FL  ,South
+277,1363043,20840,Low Middle,42,40-49,2,1,M ,2,Thomas                                                      ,O'Connell                                                   ,DC  ,South
+278,1362675,10608,Lowest,63,60-69,3,0,F ,2,Patricia                                                    ,Meis                                                        ,MN  ,Midwest
+279,1363308,27155,Low Middle,22,20-29,1,1,M ,2,Lee                                                         ,Simone                                                      ,NY  ,Northeast
+280,1362940,0,,17,10-19,2,0,F ,1,Lucy                                                        ,Woolf                                                       ,NY  ,Northeast
+281,1363165,15301,Low Middle,69,60-69,7,0,M ,2,Curtis                                                      ,Ross                                                        ,MO  ,Midwest
+282,1363409,9379,Lowest,69,60-69,9,0,F ,2,Marsha                                                      ,Greene                                                      ,NY  ,Northeast
+283,1363022,26364,Low Middle,41,40-49,1,2,M ,2,Jester                                                      ,McLernon                                                    ,IN  ,Midwest
+284,1362797,17912,Low Middle,32,30-39,2,3,F ,2,Minh                                                        ,McCreary                                                    ,WA  ,West
+285,1363491,0,,14,10-19,6,0,M ,1,Stanley                                                     ,Campbell                                                    ,HI  ,West
+286,1363266,20889,Low Middle,23,20-29,2,0,F ,3,Georgia                                                     ,Owings                                                      ,CA  ,West
+287,1362614,18040,Low Middle,27,20-29,6,2,F ,2,Ann                                                         ,Maloney                                                     ,NY  ,Northeast
+288,1362858,60242,High Middle,41,40-49,1,4,F ,2,Patricia                                                    ,Pieper                                                      ,CA  ,West
+289,1362879,0,,15,10-19,7,0,F ,1,Lorraine                                                    ,Huff                                                        ,OR  ,West
+290,1362654,0,,13,10-19,5,0,F ,1,Debbie                                                      ,Olszewski                                                   ,TX  ,South
+291,1363348,36259,Low Middle,45,40-49,5,2,F ,2,Grace                                                       ,Cassidy                                                     ,MA  ,Northeast
+292,1363123,56384,High Middle,35,30-39,2,2,M ,4,Kevin                                                       ,Grimmer                                                     ,IL  ,Midwest
+293,1362736,20358,Low Middle,42,40-49,2,0,F ,1,Jeanne                                                      ,Hills                                                       ,DC  ,South
+294,1363388,76376,High Middle,56,50-59,6,1,M ,2,Tony                                                        ,Funke                                                       ,MI  ,Midwest
+295,1363205,0,,17,10-19,2,0,F ,1,Monica                                                      ,Mealhouse                                                   ,IL  ,Midwest
+296,1362511,2517,Lowest,83,80-89,3,0,M ,1,Alan                                                        ,Shoemaker                                                   ,NY  ,Northeast
+297,1363470,18390,Low Middle,38,30-39,8,2,F ,2,Bridget                                                     ,Moxim                                                       ,FL  ,South
+298,1362980,8201,Lowest,18,10-19,3,0,M ,1,Benny                                                       ,Sandell                                                     ,IL  ,Midwest
+299,1362593,11725,Lowest,30,30-39,0,0,M ,1,Fred                                                        ,Hoff                                                        ,NY  ,Northeast
+300,1363449,30265,Low Middle,34,30-39,4,0,F ,1,Farrah                                                      ,Fischer                                                     ,CA  ,West
+301,1363327,12310,Lowest,40,40-49,0,0,F ,1,Glynda                                                      ,Doherty                                                     ,CA  ,West
+302,1362837,22322,Low Middle,50,50-59,0,0,M ,2,Michael                                                     ,Harrington                                                  ,AZ  ,West
+303,1362919,4300,Lowest,24,20-29,3,0,F ,1,Angela                                                      ,Foreman                                                     ,CA  ,West
+304,1363306,15576,Low Middle,46,40-49,6,0,F ,1,Pam                                                         ,Matthews                                                    ,CA  ,West
+305,1362715,17750,Low Middle,56,50-59,6,1,F ,2,Teri                                                        ,Reidy                                                       ,NY  ,Northeast
+306,1363102,18183,Low Middle,33,30-39,3,3,F ,2,Emma                                                        ,Hemler                                                      ,CA  ,West
+307,1363184,19840,Low Middle,50,50-59,0,2,F ,4,Rosalynn                                                    ,Marxen                                                      ,OH  ,Midwest
+308,1362694,29838,Low Middle,36,30-39,6,2,F ,2,Mildred                                                     ,Murnane                                                     ,GA  ,South
+309,1362776,27269,Low Middle,68,60-69,3,0,M ,2,Brian                                                       ,Nolan                                                       ,TN  ,South
+310,1362959,77727,High Middle,57,50-59,7,1,F ,2,Jackie                                                      ,Finley                                                      ,NC  ,South
+311,1362572,0,,17,10-19,2,0,M ,1,Dean                                                        ,Lawrence                                                    ,NM  ,West
+312,1363428,8301,Lowest,82,80-89,2,0,M ,1,Joachim                                                     ,Gula                                                        ,IN  ,Midwest
+313,1362633,10818,Lowest,28,20-29,4,2,F ,2,Nikki                                                       ,Dickey                                                      ,NY  ,Northeast
+314,1362551,23085,Low Middle,27,20-29,6,0,F ,1,Faye                                                        ,McGinty                                                     ,NC  ,South
+315,1362898,12449,Lowest,32,30-39,1,2,M ,2,Frank                                                       ,Tragarz                                                     ,IL  ,Midwest
+316,1362816,11918,Lowest,19,10-19,4,0,F ,1,Daisy                                                       ,Hayes                                                       ,KY  ,South
+317,1363081,41876,High Middle,37,30-39,7,0,F ,1,Shirley                                                     ,Ballinger                                                   ,KY  ,South
+318,1363142,40671,High Middle,30,30-39,0,2,M ,3,Krista                                                      ,Harrington                                                  ,IL  ,Midwest
+319,1362877,9480,Lowest,42,40-49,2,2,M ,2,Adam                                                        ,Huff                                                        ,OR  ,West
+320,1362530,39250,Low Middle,57,50-59,7,0,F ,1,Jackie                                                      ,Wyman                                                       ,NY  ,Northeast
+321,1363346,35237,Low Middle,55,50-59,5,1,M ,2,Joshua                                                      ,Sandham                                                     ,AZ  ,West
+322,1362999,29403,Low Middle,36,30-39,6,2,M ,4,Daniel                                                      ,Hines                                                       ,CA  ,West
+323,1362938,0,,16,10-19,1,0,M ,1,Keisuke                                                     ,Fitzgerald                                                  ,TX  ,South
+324,1363468,36923,Low Middle,53,50-59,2,1,F ,3,Ellen                                                       ,Gardner                                                     ,KY  ,South
+325,1362734,33010,Low Middle,55,50-59,5,0,F ,2,Eileen                                                      ,Newland                                                     ,MO  ,Midwest
+326,1363264,0,,16,10-19,1,0,F ,1,Lisa                                                        ,Henry                                                       ,NJ  ,Northeast
+327,1363203,82612,Highest,56,50-59,6,1,M ,2,Dennis                                                      ,Mealhouse                                                   ,IL  ,Midwest
+328,1363121,0,,14,10-19,6,0,M ,1,Ted                                                         ,Park                                                        ,FL  ,South
+329,1362591,26936,Low Middle,64,60-69,4,0,F ,1,Kathy                                                       ,Augustine                                                   ,OH  ,Midwest
+330,1362713,31297,Low Middle,40,40-49,0,0,M ,2,James                                                       ,Henry                                                       ,IN  ,Midwest
+331,1363060,48479,High Middle,46,40-49,6,5,M ,2,Donald                                                      ,Gold                                                        ,NY  ,Northeast
+332,1362509,3093,Lowest,82,80-89,2,0,M ,2,Gilbert                                                     ,Larson                                                      ,IN  ,Midwest
+333,1362652,20745,Low Middle,46,40-49,1,2,M ,2,Jeffrey                                                     ,Olszewski                                                   ,TX  ,South
+334,1362978,33060,Low Middle,41,40-49,1,0,M ,1,Jorge                                                       ,Lawrence                                                    ,CA  ,West
+335,1362917,45464,High Middle,57,50-59,7,0,F ,2,Paula                                                       ,Lee                                                         ,IN  ,Midwest
+336,1363447,17052,Low Middle,41,40-49,1,0,F ,1,Patti                                                       ,Hines                                                       ,NY  ,Northeast
+337,1363386,12033,Lowest,85,80-89,5,0,M ,2,Terry                                                       ,Stull                                                       ,OK  ,South
+338,1362570,20562,Low Middle,50,50-59,0,2,F ,2,Terry                                                       ,Lawrence                                                    ,NM  ,West
+339,1363182,101177,Highest,50,50-59,0,0,F ,2,Teresa                                                      ,Madden                                                      ,CA  ,West
+340,1362835,9099,Lowest,28,20-29,7,0,M ,1,Charles                                                     ,Jones                                                       ,AL  ,South
+341,1363243,16579,Low Middle,35,30-39,5,2,M ,2,Bob                                                         ,Gavin                                                       ,TN  ,South
+342,1363304,14780,Lowest,88,80-89,8,0,F ,4,Mayreen                                                     ,Toms                                                        ,CA  ,West
+343,1363039,0,,15,10-19,7,0,F ,1,Margarita                                                   ,Dole                                                        ,OK  ,South
+344,1362692,0,,13,10-19,5,0,M ,1,Ramesh                                                      ,Marek                                                       ,NV  ,West
+345,1362631,34394,Low Middle,54,50-59,4,0,F ,2,Malisa                                                      ,MacMullen                                                   ,TX  ,South
+346,1363161,12560,Lowest,31,30-39,1,2,F ,2,Paulina                                                     ,Butler                                                      ,CO  ,West
+347,1363100,12599,Lowest,37,30-39,3,0,M ,1,Ed                                                          ,Harris                                                      ,MA  ,Northeast
+348,1363426,37186,Low Middle,36,30-39,6,0,M ,1,Carl                                                        ,Kapple                                                      ,NM  ,West
+349,1362896,44758,High Middle,53,50-59,2,1,F ,2,Jeana                                                       ,McSherry                                                    ,NY  ,Northeast
+350,1362549,0,,17,10-19,2,0,F ,1,Eva                                                         ,O'Malley                                                    ,NY  ,Northeast
+351,1363365,41261,High Middle,34,30-39,4,3,M ,2,Jeremy                                                      ,Shaw                                                        ,NY  ,Northeast
+352,1363018,46884,High Middle,36,30-39,4,2,M ,2,Ngar-Cheung                                                 ,Sakai                                                       ,AZ  ,West
+353,1362488,7083,Lowest,77,70-79,7,0,F ,2,Stephanie                                                   ,Moussavi                                                    ,CA  ,West
+354,1362814,0,,16,10-19,1,0,M ,1,Frankie                                                     ,Eubanks                                                     ,IL  ,Midwest
+355,1362753,13352,Lowest,48,40-49,8,0,F ,1,Teresa                                                      ,Metheny                                                     ,OH  ,Midwest
+356,1363283,22995,Low Middle,21,20-29,0,0,F ,1,Kathy                                                       ,Lewis                                                       ,NY  ,Northeast
+357,1363222,5456,Lowest,63,60-69,3,0,M ,4,Edward                                                      ,Cox                                                         ,CA  ,West
+358,1362875,8681,Lowest,68,60-69,8,0,F ,2,Nellie                                                      ,McLaughlin                                                  ,AL  ,South
+359,1363487,0,,13,10-19,5,0,M ,1,Sonny                                                       ,Campbell                                                    ,HI  ,West
+360,1362671,22783,Low Middle,25,20-29,4,0,F ,1,Jeana                                                       ,Zrahia                                                      ,LA  ,South
+361,1362610,9602,Lowest,79,70-79,9,0,M ,2,Douglas                                                     ,Rayhanian                                                   ,HI  ,West
+362,1363140,20684,Low Middle,44,40-49,4,0,M ,1,Khai                                                        ,Parker                                                      ,CA  ,West
+363,1363079,25426,Low Middle,46,40-49,6,1,F ,2,Irene                                                       ,McVicker                                                    ,HI  ,West
+364,1362528,6618,Lowest,39,30-39,9,0,F ,1,Juan                                                        ,Kirchmer                                                    ,KY  ,South
+365,1363344,13124,Lowest,66,60-69,6,0,F ,2,Gail                                                        ,Pike                                                        ,AZ  ,West
+366,1362997,0,,17,10-19,2,0,F ,1,Tracy                                                       ,Johnson                                                     ,PA  ,Northeast
+367,1362936,8575,Lowest,52,50-59,2,1,F ,2,Pat                                                         ,Fitzgerald                                                  ,TX  ,South
+368,1363466,0,,15,10-19,7,0,F ,1,Sophia                                                      ,Hudson                                                      ,CA  ,West
+369,1363405,26583,Low Middle,23,20-29,2,2,F ,2,Jeana                                                       ,Erceg                                                       ,CA  ,West
+370,1362589,30674,Low Middle,64,60-69,4,0,F ,2,Ruby                                                        ,McGough                                                     ,WA  ,West
+371,1363201,8038,Lowest,80,80-89,0,0,F ,2,Rita                                                        ,Ferguson                                                    ,CA  ,West
+372,1362854,0,,15,10-19,0,0,M ,1,Glenn                                                       ,Matsumoto                                                   ,NJ  ,Northeast
+373,1362793,29120,Low Middle,36,30-39,6,2,M ,3,Ken                                                         ,Alexander                                                   ,CA  ,West
+374,1363323,57882,High Middle,39,30-39,9,0,F ,1,Joyce                                                       ,Yahya                                                       ,PA  ,Northeast
+375,1363262,49631,High Middle,54,50-59,4,1,F ,2,Rachel                                                      ,Henry                                                       ,NJ  ,Northeast
+376,1362711,12994,Lowest,26,20-29,5,1,F ,4,Christi                                                     ,Subbanna                                                    ,CA  ,West
+377,1363058,6355,Lowest,77,70-79,7,0,M ,2,Karmen                                                      ,Williamson                                                  ,NY  ,Northeast
+378,1363180,0,,15,10-19,7,0,M ,1,Oliver                                                      ,Glover                                                      ,IL  ,Midwest
+379,1362650,17804,Low Middle,21,20-29,0,1,M ,2,Nick                                                        ,Garrison                                                    ,NY  ,Northeast
+380,1362976,20179,Low Middle,49,40-49,9,1,F ,2,Terry                                                       ,Mevawalla                                                   ,NB  ,Midwest
+381,1363384,54647,High Middle,48,40-49,8,0,M ,1,Alex                                                        ,Rarey                                                       ,TX  ,South
+382,1363445,5918,Lowest,29,20-29,8,1,M ,2,Sid                                                         ,McLaughlin                                                  ,CA  ,West
+383,1362507,0,,17,10-19,2,0,F ,1,Allison                                                     ,Troester                                                    ,CA  ,West
+384,1362568,0,,16,10-19,1,0,M ,1,Tony                                                        ,Telles                                                      ,CA  ,West
+385,1362772,12456,Lowest,31,30-39,1,2,M ,2,Matthew                                                     ,Khanijow                                                    ,IL  ,Midwest
+386,1363037,8257,Lowest,29,20-29,8,0,F ,2,Margarita                                                   ,Niedelman                                                   ,PA  ,Northeast
+387,1363241,30217,Low Middle,46,40-49,6,0,F ,1,Carole                                                      ,Schissler                                                   ,TX  ,South
+388,1363302,50704,High Middle,55,50-59,5,1,M ,2,Danny                                                       ,Potter                                                      ,CA  ,West
+389,1363098,21909,Low Middle,51,50-59,1,1,M ,2,James                                                       ,Justice                                                     ,HI  ,West
+390,1362894,59542,High Middle,57,50-59,7,0,M ,1,Lee                                                         ,Kirchmer                                                    ,NY  ,Northeast
+391,1362486,10701,Lowest,76,70-79,6,0,F ,3,Kyle                                                        ,McVicker                                                    ,TX  ,South
+392,1362690,24131,Low Middle,47,40-49,7,1,F ,2,Rebecca                                                     ,Marek                                                       ,NV  ,West
+393,1362955,15746,Low Middle,30,30-39,0,3,M ,2,Adam                                                        ,Palmer                                                      ,CA  ,West
+394,1363159,11029,Lowest,46,40-49,4,0,M ,1,Anthony                                                     ,Schnack                                                     ,NM  ,West
+395,1363077,0,,15,10-19,3,0,F ,1,Elsie                                                       ,Richards                                                    ,NY  ,Northeast
+396,1362547,30413,Low Middle,37,30-39,3,0,M ,2,Roger                                                       ,Levy                                                        ,NY  ,Northeast
+397,1362669,0,,13,10-19,5,0,F ,1,Stephanie                                                   ,Boyd                                                        ,CA  ,West
+398,1363016,41317,High Middle,54,50-59,4,1,M ,2,Jacob                                                       ,McMillen                                                    ,CA  ,West
+399,1362934,11074,Lowest,52,50-59,2,1,F ,2,Vivian                                                      ,Paul                                                        ,OR  ,West
+400,1363485,19863,Low Middle,48,40-49,8,0,F ,1,Anne                                                        ,Dunn                                                        ,WA  ,West
+401,1363403,37364,Low Middle,52,50-59,2,1,F ,4,Heidi                                                       ,Matthews                                                    ,OH  ,Midwest
+402,1363342,32700,Low Middle,53,50-59,3,1,F ,4,Bridget                                                     ,Shin                                                        ,TX  ,South
+403,1362526,43872,High Middle,41,40-49,1,0,F ,2,Jessica                                                     ,Flynn                                                       ,CA  ,West
+404,1363138,13137,Lowest,72,70-79,2,0,F ,2,Phoebe                                                      ,Sales                                                       ,TX  ,South
+405,1362791,7914,Lowest,81,80-89,1,0,F ,2,Marilyn                                                     ,Parent                                                      ,NY  ,Northeast
+406,1362730,12988,Lowest,37,30-39,7,3,F ,4,Patricia                                                    ,Cooper                                                      ,WA  ,West
+407,1363056,2442,Lowest,19,10-19,1,0,F ,1,Darlene                                                     ,Clark                                                       ,WI  ,Midwest
+408,1363199,0,,16,10-19,1,0,M ,1,Alfred                                                      ,Maloney                                                     ,CA  ,West
+409,1363117,38736,Low Middle,48,40-49,7,5,M ,4,Hans                                                        ,Park                                                        ,FL  ,South
+410,1362995,45195,High Middle,59,50-59,9,2,M ,2,Norm                                                        ,Johnson                                                     ,PA  ,Northeast
+411,1363382,13497,Lowest,61,60-69,1,0,F ,2,Barbara                                                     ,Schnack                                                     ,CO  ,West
+412,1362587,8799,Lowest,27,20-29,6,0,F ,2,Li-Yauw                                                     ,Rice                                                        ,OK  ,South
+413,1362505,7735,Lowest,53,50-59,3,1,F ,2,Melissa                                                     ,Troester                                                    ,CA  ,West
+414,1362852,33706,Low Middle,56,50-59,6,1,M ,2,Eric                                                        ,Matsumoto                                                   ,NJ  ,Northeast
+415,1362974,12436,Lowest,29,20-29,8,0,M ,1,Rob                                                         ,Greenberg                                                   ,CA  ,West
+416,1363321,33113,Low Middle,55,50-59,5,0,M ,2,Jeff                                                        ,Herreweyers                                                 ,IN  ,Midwest
+417,1362770,76891,High Middle,42,40-49,2,0,F ,1,Daniel                                                      ,Bush                                                        ,PA  ,Northeast
+418,1362709,5981,Lowest,74,70-79,4,0,F ,2,Colleen                                                     ,Malcom                                                      ,CA  ,West
+419,1362831,111004,Highest,52,50-59,2,0,M ,1,Matthew                                                     ,Yumoto                                                      ,FL  ,South
+420,1363178,31220,Low Middle,34,30-39,4,0,M ,1,Marty                                                       ,Swanson                                                     ,NC  ,South
+421,1363096,12072,Lowest,67,60-69,7,0,M ,2,Bill                                                        ,Brownell                                                    ,NY  ,Northeast
+422,1362566,127848,Highest,54,50-59,4,1,M ,2,Guy                                                         ,Telles                                                      ,CA  ,West
+423,1363361,26008,Low Middle,34,30-39,4,2,F ,4,Marilyn                                                     ,Griggs                                                      ,OR  ,West
+424,1363035,8262,Lowest,60,60-69,0,0,M ,2,Marc                                                        ,Erceg                                                       ,WI  ,Midwest
+425,1362484,10053,Lowest,42,40-49,2,0,F ,1,Lana                                                        ,Gilmore                                                     ,CO  ,West
+426,1362688,23896,Low Middle,34,30-39,4,1,M ,2,Jeffrey                                                     ,Parent                                                      ,OR  ,West
+427,1363422,42532,High Middle,39,30-39,9,2,M ,2,Matthew                                                     ,Floyd                                                       ,CO  ,West
+428,1363157,72194,High Middle,32,30-39,2,0,M ,1,Felipe                                                      ,Qiu                                                         ,TX  ,South
+429,1363218,21646,Low Middle,49,40-49,6,0,F ,1,Cheryl                                                      ,Hildreth                                                    ,CA  ,West
+430,1362749,17412,Low Middle,33,30-39,2,2,F ,3,Kate                                                        ,Holmes                                                      ,TN  ,South
+431,1362810,0,,17,10-19,2,0,F ,1,Judy                                                        ,Rostek                                                      ,IN  ,Midwest
+432,1363014,15399,Low Middle,60,60-69,0,0,M ,2,Tai                                                         ,Schissler                                                   ,NY  ,Northeast
+433,1363075,12560,Lowest,46,40-49,6,1,M ,2,Donald                                                      ,Richards                                                    ,NY  ,Northeast
+434,1363483,9271,Lowest,28,20-29,6,0,M ,2,Gilbert                                                     ,Rostek                                                      ,DC  ,South
+435,1362932,18387,Low Middle,18,10-19,3,0,M ,1,Rolf                                                        ,Shen                                                        ,CA  ,West
+436,1362606,36586,Low Middle,51,50-59,1,0,F ,1,Clara                                                       ,Russell                                                     ,AZ  ,West
+437,1363401,9999,Lowest,44,40-49,4,0,M ,2,Benoit                                                      ,Lackpour                                                    ,NY  ,Northeast
+438,1363340,0,,13,10-19,5,0,M ,1,Terry                                                       ,Starkel                                                     ,CA  ,West
+439,1362524,0,,15,10-19,7,0,F ,1,Phyllis                                                     ,Morton                                                      ,CA  ,West
+440,1362728,32065,Low Middle,48,40-49,8,1,M ,2,Andy                                                        ,Kraus                                                       ,NY  ,Northeast
+441,1362993,20702,Low Middle,30,30-39,0,1,F ,3,Carolyn                                                     ,Weeks                                                       ,MI  ,Midwest
+442,1363197,19088,Low Middle,52,50-59,2,2,F ,2,Carolyn                                                     ,Maloney                                                     ,CA  ,West
+443,1363258,9005,Lowest,26,20-29,5,1,F ,2,Eva                                                         ,Lennan                                                      ,CA  ,West
+444,1363462,9495,Lowest,25,20-29,4,2,F ,3,Judith                                                      ,Barnard                                                     ,MD  ,South
+445,1362503,5787,Lowest,18,10-19,3,0,M ,1,Cary                                                        ,Carrington                                                  ,CA  ,West
+446,1362585,28093,Low Middle,69,60-69,9,0,M ,2,Les                                                         ,Cole                                                        ,IL  ,Midwest
+447,1362972,59047,High Middle,55,50-59,5,0,M ,1,Gene                                                        ,Reissman                                                    ,TX  ,South
+448,1363054,9738,Lowest,56,50-59,6,1,F ,2,Nora                                                        ,Clark                                                       ,WI  ,Midwest
+449,1363441,7169,Lowest,39,30-39,9,0,F ,1,Colleen                                                     ,McCoy                                                       ,AZ  ,West
+450,1362850,8961,Lowest,86,80-89,6,0,M ,4,Tim                                                         ,Walsh                                                       ,NV  ,West
+451,1363237,57224,High Middle,35,30-39,5,2,M ,2,Joe                                                         ,Lew                                                         ,TX  ,South
+452,1362911,43737,High Middle,66,60-69,6,0,M ,2,Norman                                                      ,Marsicano                                                   ,CA  ,West
+453,1362829,49553,High Middle,53,50-59,3,1,F ,2,Carolyn                                                     ,Roberson                                                    ,PA  ,Northeast
+454,1363176,2772,Lowest,22,20-29,1,1,F ,4,Neil                                                        ,Adamson                                                     ,NJ  ,Northeast
+455,1363298,56296,High Middle,38,30-39,8,2,M ,2,Bruno                                                       ,Rector                                                      ,IL  ,Midwest
+456,1362768,0,,16,10-19,1,0,M ,1,Patrick                                                     ,Elliot                                                      ,IL  ,Midwest
+457,1363094,11244,Lowest,72,70-79,2,0,F ,2,Mytien                                                      ,Larson                                                      ,MN  ,Midwest
+458,1362564,14357,Lowest,77,70-79,7,0,F ,2,Kim                                                         ,McHugh                                                      ,IL  ,Midwest
+459,1362686,19019,Low Middle,70,70-79,0,0,F ,4,Jenny                                                       ,McCarthy                                                    ,PA  ,Northeast
+460,1362625,30165,Low Middle,37,30-39,7,3,M ,2,Matthew                                                     ,Hemphill                                                    ,FL  ,South
+461,1362951,24090,Low Middle,67,60-69,7,0,M ,2,Anthony                                                     ,Warner                                                      ,KY  ,South
+462,1362890,0,,14,10-19,6,0,F ,1,Janet                                                       ,Kirchmer                                                    ,OR  ,West
+463,1363420,22369,Low Middle,32,30-39,2,0,F ,1,Catherine                                                   ,Kaufman                                                     ,MI  ,Midwest
+464,1363216,13241,Lowest,18,10-19,3,0,F ,1,Carolyn                                                     ,Lau                                                         ,NY  ,Northeast
+465,1362543,77322,High Middle,36,30-39,6,2,M ,2,William                                                     ,Hudson                                                      ,NY  ,Northeast
+466,1363012,77893,High Middle,35,30-39,2,0,M ,1,Scott                                                       ,Gins                                                        ,NY  ,Northeast
+467,1362808,31387,Low Middle,42,40-49,2,0,F ,1,Anita                                                       ,Felix                                                       ,CA  ,West
+468,1363481,7642,Lowest,66,60-69,6,0,F ,2,Beverly                                                     ,Sze                                                         ,CO  ,West
+469,1362665,0,,14,10-19,6,0,F ,1,Angie                                                       ,Boyd                                                        ,CA  ,West
+470,1362604,28204,Low Middle,40,40-49,0,0,F ,1,Rita                                                        ,Sadri                                                       ,CA  ,West
+471,1363134,19645,Low Middle,39,30-39,6,2,M ,2,Biju                                                        ,Hedegard                                                    ,CA  ,West
+472,1363073,11821,Lowest,29,20-29,8,0,M ,2,Walter                                                      ,McCreary                                                    ,CA  ,West
+473,1363399,1591,Lowest,25,20-29,4,0,M ,1,Glenn                                                       ,Hills                                                       ,CA  ,West
+474,1363338,0,,13,10-19,5,0,F ,1,Tina                                                        ,Starkel                                                     ,CA  ,West
+475,1362991,21657,Low Middle,49,40-49,9,0,F ,1,April                                                       ,Richards                                                    ,TX  ,South
+476,1362930,0,,17,10-19,2,0,M ,1,Martin                                                      ,Carter                                                      ,TX  ,South
+477,1362787,0,,14,10-19,6,0,M ,1,Andy                                                        ,Bailey                                                      ,MO  ,Midwest
+478,1362726,14141,Lowest,18,10-19,3,0,M ,1,Carlos                                                      ,Center                                                      ,MO  ,Midwest
+479,1363256,90592,Highest,50,50-59,0,0,M ,2,Barry                                                       ,Romen                                                       ,CA  ,West
+480,1363195,0,,17,10-19,2,0,M ,1,Hsin-Kai                                                    ,Hummel                                                      ,MO  ,Midwest
+481,1362848,0,,15,10-19,7,0,F ,1,Emily                                                       ,Teeuwen                                                     ,CA  ,West
+482,1363317,18176,Low Middle,68,60-69,8,0,F ,4,Lori                                                        ,Hu                                                          ,AZ  ,West
+483,1362644,3371,Lowest,19,10-19,4,0,F ,1,Jamie                                                       ,Hood                                                        ,NY  ,Northeast
+484,1362909,98566,Highest,43,40-49,3,1,F ,3,Phyllis                                                     ,Knowles                                                     ,IL  ,Midwest
+485,1363113,30163,Low Middle,38,30-39,1,3,M ,2,Patrick                                                     ,Shelton                                                     ,CA  ,West
+486,1363378,31732,Low Middle,35,30-39,5,3,M ,2,Wayne                                                       ,Milby                                                       ,CA  ,West
+487,1362705,27635,Low Middle,40,40-49,0,2,F ,4,Yuki                                                        ,Dole                                                        ,MO  ,Midwest
+488,1363174,21384,Low Middle,58,50-59,7,1,F ,2,Hana                                                        ,McLaughlin                                                  ,CA  ,West
+489,1362501,65347,High Middle,58,50-59,8,2,F ,2,Rose                                                        ,Carrington                                                  ,CA  ,West
+490,1362766,102286,Highest,56,50-59,6,2,F ,3,Susanne                                                     ,Elliot                                                      ,IL  ,Midwest
+491,1362970,30276,Low Middle,45,40-49,1,0,F ,1,Maud                                                        ,Dickens                                                     ,CA  ,West
+492,1363235,25827,Low Middle,75,70-79,5,0,F ,2,Marjorie                                                    ,Bender                                                      ,TN  ,South
+493,1363439,4184,Lowest,27,20-29,6,1,F ,2,Isabel                                                      ,Frost                                                       ,TX  ,South
+494,1363031,52542,High Middle,35,30-39,5,3,M ,4,Hal                                                         ,Stanick                                                     ,CA  ,West
+495,1362562,63532,High Middle,46,40-49,6,0,F ,1,Kimberly                                                    ,Raymond                                                     ,CA  ,West
+496,1362623,15554,Low Middle,73,70-79,3,0,M ,2,Edgar                                                       ,Newton                                                      ,TX  ,South
+497,1362827,6228,Lowest,84,80-89,4,0,F ,2,Jackie                                                      ,Jiang                                                       ,NY  ,Northeast
+498,1362888,56266,High Middle,44,40-49,4,5,M ,3,Frank                                                       ,Kirchmer                                                    ,OR  ,West
+499,1363296,7302,Lowest,19,10-19,4,0,F ,1,Hana                                                        ,O'Neil                                                      ,KS  ,Midwest
+500,1363357,19041,Low Middle,38,30-39,8,3,M ,2,Anthony                                                     ,Meyer                                                       ,CA  ,West
+501,1363092,6809,Lowest,60,60-69,0,0,F ,1,Edith                                                       ,Costello                                                    ,AZ  ,West
+502,1362480,50890,High Middle,33,30-39,3,2,M ,2,Hans                                                        ,Beed                                                        ,NY  ,Northeast
+503,1363153,0,,15,10-19,7,0,F ,1,Maredith                                                    ,Satyanarayan                                                ,CA  ,West
+504,1362745,11410,Lowest,82,80-89,2,0,M ,2,Jon                                                         ,Dixit                                                       ,WI  ,Midwest
+505,1362949,0,,16,10-19,1,0,M ,1,Scott                                                       ,Burger                                                      ,CA  ,West
+506,1363214,8345,Lowest,19,10-19,4,0,F ,1,Polly                                                       ,Sweetnam                                                    ,CA  ,West
+507,1362541,22362,Low Middle,63,60-69,3,0,M ,2,Jim                                                         ,Raco                                                        ,IL  ,Midwest
+508,1363479,32728,Low Middle,53,50-59,3,0,M ,3,Jeremy                                                      ,Daleo                                                       ,NY  ,Northeast
+509,1363010,4424,Lowest,18,10-19,3,0,M ,1,Dan                                                         ,Winton                                                      ,CO  ,West
+510,1362602,31496,Low Middle,25,20-29,4,1,F ,3,Lily                                                        ,McKeighan                                                   ,CA  ,West
+511,1362806,39382,Low Middle,24,20-29,3,1,M ,3,Randy                                                       ,McCarthy                                                    ,IL  ,Midwest
+512,1363071,1565,Lowest,82,80-89,2,0,F ,2,Debbie                                                      ,Henderson                                                   ,TX  ,South
+513,1363275,17773,Low Middle,37,30-39,7,3,F ,2,Julie                                                       ,Mealhouse                                                   ,MO  ,Midwest
+514,1363336,33905,Low Middle,52,50-59,2,0,M ,2,Michel                                                      ,Pike                                                        ,MN  ,Midwest
+515,1362663,29030,Low Middle,44,40-49,4,0,M ,1,Arnie                                                       ,Paloutzian                                                  ,TX  ,South
+516,1362928,20691,Low Middle,44,40-49,4,0,M ,1,Jeff                                                        ,Williams                                                    ,NY  ,Northeast
+517,1362520,58377,High Middle,49,40-49,2,4,F ,4,Heather                                                     ,Morton                                                      ,CA  ,West
+518,1363193,30989,Low Middle,45,40-49,5,0,F ,1,Mayreen                                                     ,Mahlman                                                     ,NY  ,Northeast
+519,1363458,22025,Low Middle,44,40-49,3,1,F ,2,Brenda                                                      ,King                                                        ,OR  ,West
+520,1362785,43582,High Middle,42,40-49,2,5,F ,2,Elsie                                                       ,Bailey                                                      ,MO  ,Midwest
+521,1363254,13317,Lowest,19,10-19,4,0,F ,1,Nora                                                        ,Green                                                       ,IL  ,Midwest
+522,1362642,6909,Lowest,54,50-59,2,2,F ,3,Wendy                                                       ,Hood                                                        ,NY  ,Northeast
+523,1362703,26886,Low Middle,34,30-39,4,0,F ,2,Christine                                                   ,Putnam                                                      ,CA  ,West
+524,1363376,23883,Low Middle,75,70-79,5,0,M ,2,Tom                                                         ,Savage                                                      ,WI  ,Midwest
+525,1363172,93060,Highest,50,50-59,0,0,M ,2,Stanley                                                     ,Meyer                                                       ,WI  ,Midwest
+526,1362499,37180,Low Middle,65,60-69,5,0,M ,2,Lawrence                                                    ,Warner                                                      ,NY  ,Northeast
+527,1362968,17110,Low Middle,68,60-69,8,0,F ,1,Nancy                                                       ,Hummel                                                      ,TX  ,South
+528,1362764,25973,Low Middle,57,50-59,7,1,M ,2,Dale                                                        ,Holloway                                                    ,CA  ,West
+529,1362825,10234,Lowest,18,10-19,3,0,F ,1,Darlene                                                     ,Hills                                                       ,CA  ,West
+530,1363233,37438,Low Middle,62,60-69,2,0,M ,2,Andy                                                        ,Lennan                                                      ,NY  ,Northeast
+531,1363294,29536,Low Middle,43,40-49,3,0,F ,2,Gloria                                                      ,Baker                                                       ,CA  ,West
+532,1363029,0,,14,10-19,6,0,M ,1,Hans                                                        ,Hudson                                                      ,FL  ,South
+533,1362682,29040,Low Middle,32,30-39,2,1,M ,2,Dick                                                        ,Masina                                                      ,CA  ,West
+534,1362621,3303,Lowest,61,60-69,1,0,F ,3,Sally                                                       ,Yum                                                         ,AZ  ,West
+535,1363416,14769,Lowest,31,30-39,1,3,F ,2,Jessica                                                     ,Gant                                                        ,CA  ,West
+536,1363090,0,,16,10-19,1,0,F ,1,Karina                                                      ,Johnston                                                    ,TX  ,South
+537,1363008,35117,Low Middle,57,50-59,7,1,F ,2,Inge                                                        ,Winton                                                      ,CO  ,West
+538,1363355,13087,Lowest,22,20-29,1,0,M ,2,Thomas                                                      ,Milly                                                       ,MO  ,Midwest
+539,1363130,16238,Low Middle,33,30-39,3,2,M ,4,Dan                                                         ,Gollwitzer                                                  ,KY  ,South
+540,1362947,8048,Lowest,26,20-29,5,0,M ,1,Dick                                                        ,Hurlbut                                                     ,CA  ,West
+541,1362722,44196,High Middle,30,30-39,0,1,F ,2,Emma                                                        ,Marxen                                                      ,NY  ,Northeast
+542,1362743,11946,Lowest,60,60-69,0,0,F ,4,Debbie                                                      ,Lawrence                                                    ,TN  ,South
+543,1363456,0,,17,10-19,2,0,F ,1,Alice                                                       ,Fernandez                                                   ,MD  ,South
+544,1363212,9050,Lowest,65,60-69,5,0,F ,2,Joyce                                                       ,Keith                                                       ,OH  ,Midwest
+545,1362579,17401,Low Middle,18,10-19,3,0,M ,1,Kyle                                                        ,Gins                                                        ,PA  ,Northeast
+546,1362804,68039,High Middle,48,40-49,8,0,M ,1,Kyle                                                        ,Antoun                                                      ,FL  ,South
+547,1362844,0,,17,10-19,2,0,M ,1,James                                                       ,Pauly                                                       ,MA  ,Northeast
+548,1363069,11600,Lowest,18,10-19,3,0,M ,1,Larry                                                       ,Pauly                                                       ,IL  ,Midwest
+549,1363313,19639,Low Middle,25,20-29,4,1,F ,2,Linda                                                       ,Barnhart                                                    ,TX  ,South
+550,1363334,0,,17,10-19,2,0,F ,1,Chrisjan                                                    ,O'Neil                                                      ,MN  ,Midwest
+551,1362701,38917,Low Middle,51,50-59,1,0,F ,2,Marylee                                                     ,Abernathy                                                   ,CA  ,West
+552,1362661,19649,Low Middle,66,60-69,5,0,M ,2,Anthony                                                     ,Muller                                                      ,NY  ,Northeast
+553,1363170,0,,17,10-19,2,0,F ,1,Eileen                                                      ,Kaufmann                                                    ,IL  ,Midwest
+554,1362926,6479,Lowest,65,60-69,5,0,F ,2,Mamie                                                       ,Pieper                                                      ,OH  ,Midwest
+555,1363435,12307,Lowest,29,20-29,8,1,M ,2,Johnson                                                     ,Reddy                                                       ,TN  ,South
+556,1363395,14011,Lowest,29,20-29,8,2,F ,3,Minhhai                                                     ,Nishihara                                                   ,AZ  ,West
+557,1362558,0,,15,10-19,7,0,M ,1,Dale                                                        ,Kaufmann                                                    ,CA  ,West
+558,1363191,26112,Low Middle,36,30-39,6,0,M ,2,Matt                                                        ,Larson                                                      ,TN  ,South
+559,1362823,43381,High Middle,48,40-49,8,0,M ,1,Sonya                                                       ,Milby                                                       ,PA  ,Northeast
+560,1362783,16168,Low Middle,49,40-49,9,0,M ,1,Douglas                                                     ,Russell                                                     ,TX  ,South
+561,1362680,8282,Lowest,73,70-79,3,0,F ,2,Mildred                                                     ,Michelson                                                   ,CA  ,West
+562,1363252,0,,16,10-19,1,0,F ,1,Linda                                                       ,Hargett                                                     ,CA  ,West
+563,1362741,7534,Lowest,61,60-69,1,0,F ,2,Vera                                                        ,Parsons                                                     ,PA  ,Northeast
+564,1363048,43408,High Middle,40,40-49,0,4,F ,2,Mona                                                        ,Wollmann                                                    ,OK  ,South
+565,1362537,0,,13,10-19,5,0,F ,1,Jennifer                                                    ,Sarabia                                                     ,NY  ,Northeast
+566,1362640,3726,Lowest,71,70-79,1,0,F ,2,Shelley                                                     ,Justice                                                     ,AZ  ,West
+567,1363006,4366,Lowest,61,60-69,1,0,F ,2,Julie                                                       ,Flynn                                                       ,TX  ,South
+568,1363109,8997,Lowest,23,20-29,2,2,M ,2,Yuji                                                        ,Jacobsen                                                    ,TX  ,South
+569,1363475,24815,Low Middle,32,30-39,2,2,M ,2,Peter                                                       ,Merritt                                                     ,OH  ,Midwest
+570,1362905,11613,Lowest,39,30-39,5,2,F ,2,Rachel                                                      ,McLendon                                                    ,CA  ,West
+571,1362598,49437,High Middle,47,40-49,7,2,F ,2,Susanne                                                     ,Hemler                                                      ,NC  ,South
+572,1363374,6132,Lowest,21,20-29,0,0,M ,1,Chris                                                       ,Hughes                                                      ,OH  ,Midwest
+573,1362863,0,,14,10-19,6,0,M ,1,Thomas                                                      ,Pieper                                                      ,CA  ,West
+574,1362497,0,,14,10-19,6,0,M ,1,Thomas                                                      ,McMillen                                                    ,TX  ,South
+575,1363332,58217,High Middle,55,50-59,3,2,F ,2,Winifred                                                    ,O'Neil                                                      ,MN  ,Midwest
+576,1362966,11041,Lowest,83,80-89,3,0,F ,2,Amy                                                         ,Marshall                                                    ,TX  ,South
+577,1363128,4187,Lowest,19,10-19,4,0,F ,1,Cheryl                                                      ,Paul                                                        ,VA  ,South
+578,1362619,32152,Low Middle,32,30-39,2,0,F ,2,Becky                                                       ,Drake                                                       ,TX  ,South
+579,1362720,18806,Low Middle,19,10-19,4,0,M ,1,Dyan                                                        ,Schimmelpfennig                                             ,IL  ,Midwest
+580,1363088,28975,Low Middle,54,50-59,4,2,M ,2,Johnson                                                     ,Johnston                                                    ,TX  ,South
+581,1362985,11485,Lowest,70,70-79,0,0,F ,2,Shelley                                                     ,Cole                                                        ,IN  ,Midwest
+582,1363353,39832,Low Middle,58,50-59,6,0,M ,1,Ward                                                        ,Maresco                                                     ,IL  ,Midwest
+583,1363454,8120,Lowest,65,60-69,5,0,F ,4,Kitty                                                       ,Baker                                                       ,NY  ,Northeast
+584,1362945,13901,Lowest,76,70-79,6,0,F ,2,Beatrice                                                    ,Kaufmann                                                    ,NY  ,Northeast
+585,1362577,86055,Highest,50,50-59,0,2,M ,3,Edward                                                      ,Gins                                                        ,PA  ,Northeast
+586,1363414,25869,Low Middle,54,50-59,4,1,F ,4,Vivian                                                      ,Quinn                                                       ,OH  ,Midwest
+587,1363046,9307,Lowest,41,40-49,1,0,F ,1,Josephine                                                   ,Ross                                                        ,CA  ,West
+588,1363210,19891,Low Middle,70,70-79,0,0,M ,4,Roberto                                                     ,Hills                                                       ,LA  ,South
+589,1363311,54734,High Middle,50,50-59,0,0,M ,2,Anthony                                                     ,Kemper                                                      ,CA  ,West
+590,1363271,7467,Lowest,41,40-49,1,0,F ,1,Becky                                                       ,Huff                                                        ,TX  ,South
+591,1362903,29570,Low Middle,49,40-49,3,0,F ,1,Debby                                                       ,McCormick                                                   ,TX  ,South
+592,1363067,22721,Low Middle,53,50-59,2,2,F ,2,Maggie                                                      ,Pauly                                                       ,IL  ,Midwest
+593,1362699,23476,Low Middle,19,10-19,4,0,M ,1,Joachim                                                     ,Grolemund                                                   ,TX  ,South
+594,1362659,0,,14,10-19,6,0,M ,1,Meltem                                                      ,Park                                                        ,MI  ,Midwest
+595,1363168,94123,Highest,51,50-59,1,2,M ,2,Vuong                                                       ,Kaufmann                                                    ,IL  ,Midwest
+596,1362924,4804,Lowest,74,70-79,4,0,M ,2,Ed                                                          ,Osterberg                                                   ,MD  ,South
+597,1363433,6576,Lowest,45,40-49,5,0,M ,1,Eric                                                        ,Panfilov                                                    ,NM  ,West
+598,1363393,0,,16,10-19,1,0,F ,1,Patricia                                                    ,Insko                                                       ,NY  ,Northeast
+599,1362556,56088,High Middle,46,40-49,6,0,M ,1,Bob                                                         ,McCracken                                                   ,NC  ,South
+600,1362516,29417,Low Middle,33,30-39,3,3,M ,4,Ellis                                                       ,Carter                                                      ,OK  ,South
+601,1363025,0,,14,10-19,6,0,F ,1,Pamela                                                      ,McLernon                                                    ,IN  ,Midwest
+602,1362781,31013,Low Middle,31,30-39,1,0,M ,1,Carlo                                                       ,Morgan                                                      ,NC  ,South
+603,1363494,26848,Low Middle,67,60-69,1,0,F ,2,Connie                                                      ,Reynolds                                                    ,TX  ,South
+604,1363250,39754,Low Middle,57,50-59,7,2,M ,2,Greg                                                        ,Hargett                                                     ,CA  ,West
+605,1363290,0,,15,10-19,0,0,F ,1,Amelia                                                      ,Quine                                                       ,CA  ,West
+606,1362638,7008,Lowest,40,40-49,0,1,F ,4,Denise                                                      ,Koehler                                                     ,CA  ,West
+607,1362882,44071,High Middle,39,30-39,9,3,F ,2,Jacqueline                                                  ,Osterberg                                                   ,IL  ,Midwest
+608,1363107,20184,Low Middle,41,40-49,1,0,F ,1,Sandra                                                      ,Nash                                                        ,FL  ,South
+609,1363351,0,,15,10-19,7,0,F ,1,Jane                                                        ,Cassidy                                                     ,MA  ,Northeast
+610,1362964,5779,Lowest,79,70-79,9,0,F ,2,Jan                                                         ,Bockler                                                     ,WI  ,Midwest
+611,1363147,20870,Low Middle,48,40-49,8,5,F ,2,Margaret                                                    ,Satyanarayan                                                ,CA  ,West
+612,1362760,43691,High Middle,68,60-69,8,0,M ,2,Jerry                                                       ,Song                                                        ,CA  ,West
+613,1363208,2701,Lowest,70,70-79,0,0,F ,2,Patti                                                       ,Garrison                                                    ,IL  ,Midwest
+614,1363229,7701,Lowest,25,20-29,4,1,M ,2,Hugh                                                        ,Navarre                                                     ,KY  ,South
+615,1363004,19319,Low Middle,24,20-29,3,0,M ,2,Fred                                                        ,Williams                                                    ,TX  ,South
+616,1362821,7826,Lowest,18,10-19,3,0,M ,1,Chris                                                       ,Eggerman                                                    ,IL  ,Midwest
+617,1362596,0,,15,10-19,0,0,F ,1,Katy                                                        ,Lanzante                                                    ,TX  ,South
+618,1362617,13781,Lowest,50,50-59,0,0,F ,2,Daniel                                                      ,Levy                                                        ,AZ  ,West
+619,1362861,0,,13,10-19,5,0,F ,1,Neil                                                        ,Pieper                                                      ,CA  ,West
+620,1363086,0,,16,10-19,1,0,F ,1,Debby                                                       ,Garcon                                                      ,OK  ,South
+621,1362718,50980,High Middle,51,50-59,1,1,M ,2,Earick                                                      ,Schimmelpfennig                                             ,IL  ,Midwest
+622,1362535,26548,Low Middle,46,40-49,5,4,F ,4,Kyle                                                        ,Sarabia                                                     ,NY  ,Northeast
+623,1363187,46712,High Middle,47,40-49,7,3,F ,3,Nikki                                                       ,Gins                                                        ,CA  ,West
+624,1363269,44307,High Middle,53,50-59,3,1,M ,2,Parvadha                                                    ,Carpenter                                                   ,TX  ,South
+625,1363452,20926,Low Middle,70,70-79,0,0,M ,4,Ronald                                                      ,Marsicano                                                   ,NY  ,Northeast
+626,1362657,27946,Low Middle,39,30-39,8,0,F ,1,Renee                                                       ,Helfer                                                      ,CA  ,West
+627,1363044,15895,Low Middle,46,40-49,6,1,F ,2,Karen                                                       ,O'Connell                                                   ,DC  ,South
+628,1363126,58749,High Middle,50,50-59,0,2,F ,2,Connie                                                      ,Paul                                                        ,VA  ,South
+629,1363309,16718,Low Middle,23,20-29,2,1,F ,2,Lorelle                                                     ,Simone                                                      ,NY  ,Northeast
+630,1363391,15744,Low Middle,50,50-59,0,2,F ,2,Annavictoria                                                ,Insko                                                       ,NY  ,Northeast
+631,1362697,5848,Lowest,83,80-89,3,0,F ,1,Carolyn                                                     ,Larsen                                                      ,FL  ,South
+632,1362983,0,,15,10-19,7,0,M ,1,Benny                                                       ,Reagan                                                      ,IL  ,Midwest
+633,1363166,26138,Low Middle,65,60-69,5,0,F ,2,Rosalynn                                                    ,Ross                                                        ,MO  ,Midwest
+634,1363248,7154,Lowest,65,60-69,5,0,M ,2,Josh                                                        ,Raphael                                                     ,OH  ,Midwest
+635,1362758,11982,Lowest,33,30-39,3,0,F ,1,June                                                        ,Klindt                                                      ,TN  ,South
+636,1362636,10250,Lowest,69,60-69,9,0,M ,1,Carl                                                        ,Mathews                                                     ,DC  ,South
+637,1363023,31379,Low Middle,41,40-49,1,2,F ,2,Judith                                                      ,McLernon                                                    ,IN  ,Midwest
+638,1363370,6700,Lowest,23,20-29,2,0,M ,1,Les                                                         ,Simpson                                                     ,NY  ,Northeast
+639,1363492,142274,Highest,54,50-59,4,0,M ,3,Erin                                                        ,Cusmano                                                     ,TX  ,South
+640,1362962,2858,Lowest,83,80-89,3,0,M ,4,Sam                                                         ,Lawrence                                                    ,CA  ,West
+641,1362880,0,,13,10-19,5,0,M ,1,Stanley                                                     ,Huff                                                        ,OR  ,West
+642,1363227,14959,Lowest,21,20-29,0,0,M ,1,John                                                        ,Saunders                                                    ,NY  ,Northeast
+643,1363349,7617,Lowest,43,40-49,3,2,M ,2,Andy                                                        ,Cassidy                                                     ,MA  ,Northeast
+644,1363288,41064,High Middle,55,50-59,5,1,F ,2,Veronica                                                    ,Quine                                                       ,CA  ,West
+645,1362737,43710,High Middle,31,30-39,1,2,F ,3,Diana                                                       ,Baird                                                       ,NY  ,Northeast
+646,1363084,34791,Low Middle,52,50-59,2,2,F ,2,Clara                                                       ,Garcon                                                      ,OK  ,South
+647,1363206,42031,High Middle,32,30-39,2,0,F ,1,Laura                                                       ,Rohr                                                        ,CA  ,West
+648,1362676,7230,Lowest,62,60-69,2,0,M ,2,Daniel                                                      ,Meis                                                        ,MN  ,Midwest
+649,1363471,30015,Low Middle,30,30-39,0,2,M ,2,Norm                                                        ,Moxim                                                       ,FL  ,South
+650,1363145,6390,Lowest,41,40-49,1,0,M ,2,Kyeung-Chul                                                 ,Gavin                                                       ,NJ  ,Northeast
+651,1362594,69205,High Middle,53,50-59,3,2,M ,2,Quinn                                                       ,Lanzante                                                    ,TX  ,South
+652,1362941,18377,Low Middle,36,30-39,6,2,F ,2,Alice                                                       ,Russell                                                     ,TX  ,South
+653,1362859,44592,High Middle,43,40-49,3,4,M ,2,Drew                                                        ,Pieper                                                      ,CA  ,West
+654,1363410,28518,Low Middle,31,30-39,1,2,M ,3,Edwin                                                       ,Bender                                                      ,AZ  ,West
+655,1363328,18466,Low Middle,31,30-39,1,2,M ,3,Roy                                                         ,Hedegard                                                    ,OK  ,South
+656,1363002,40795,High Middle,66,60-69,6,0,F ,2,Debbie                                                      ,Sands                                                       ,NY  ,Northeast
+657,1362920,5781,Lowest,80,80-89,0,0,F ,1,Claudia                                                     ,Harrison                                                    ,PA  ,Northeast
+658,1363267,84184,Highest,37,30-39,7,0,M ,1,Andy                                                        ,Jordan                                                      ,TX  ,South
+659,1362716,36761,Low Middle,55,50-59,5,1,M ,2,George                                                      ,Reidy                                                       ,NY  ,Northeast
+660,1363389,1814,Lowest,18,10-19,3,0,F ,1,Darrin                                                      ,Funke                                                       ,MI  ,Midwest
+661,1363185,7353,Lowest,19,10-19,4,0,M ,1,Wisam                                                       ,Marxen                                                      ,OH  ,Midwest
+662,1362512,15432,Low Middle,62,60-69,2,0,F ,1,Vivian                                                      ,Gay                                                         ,CA  ,West
+663,1362777,21746,Low Middle,30,30-39,0,3,F ,4,Francine                                                    ,Johnson                                                     ,CA  ,West
+664,1362981,16276,Low Middle,40,40-49,0,3,F ,4,Amanda                                                      ,Reagan                                                      ,IL  ,Midwest
+665,1362573,40798,High Middle,36,30-39,6,2,M ,2,Carlo                                                       ,Lerma                                                       ,NY  ,Northeast
+666,1363450,4859,Lowest,29,20-29,8,1,F ,4,Jill                                                        ,Conroy                                                      ,CA  ,West
+667,1363042,0,,14,10-19,6,0,M ,1,Douglas                                                     ,Cooper                                                      ,NY  ,Northeast
+668,1362838,21460,Low Middle,53,50-59,2,0,F ,2,Tina                                                        ,Harrington                                                  ,AZ  ,West
+669,1362899,43715,High Middle,33,30-39,3,2,F ,2,Paulina                                                     ,Tragarz                                                     ,IL  ,Midwest
+670,1363307,2684,Lowest,26,20-29,2,0,F ,1,Rita                                                        ,Conway                                                      ,IL  ,Midwest
+671,1363164,24300,Low Middle,47,40-49,7,0,M ,1,Fred                                                        ,See                                                         ,NY  ,Northeast
+672,1363103,44307,High Middle,33,30-39,3,3,M ,2,Ali                                                         ,Hemler                                                      ,CA  ,West
+673,1363490,0,,15,10-19,7,0,F ,1,Grace                                                       ,Campbell                                                    ,HI  ,West
+674,1362960,57642,High Middle,59,50-59,9,1,M ,2,Miles                                                       ,Finley                                                      ,NC  ,South
+675,1362613,7005,Lowest,77,70-79,7,0,F ,3,Elsie                                                       ,Song                                                        ,TX  ,South
+676,1363429,13058,Lowest,27,20-29,6,2,F ,2,Monica                                                      ,Murray                                                      ,TX  ,South
+677,1363082,36464,Low Middle,32,30-39,2,0,M ,1,Rich                                                        ,Harrold                                                     ,TX  ,South
+678,1362552,8005,Lowest,33,30-39,3,2,F ,3,Angela                                                      ,Atkinson                                                    ,CA  ,West
+679,1362878,9848,Lowest,42,40-49,2,2,F ,2,Lana                                                        ,Huff                                                        ,OR  ,West
+680,1362817,8259,Lowest,29,20-29,8,2,M ,4,Bruce                                                       ,Sands                                                       ,CO  ,West
+681,1363347,0,,15,10-19,0,0,M ,1,Dale                                                        ,Sandham                                                     ,AZ  ,West
+682,1363286,8423,Lowest,38,30-39,4,0,F ,2,Judith                                                      ,Michael                                                     ,OH  ,Midwest
+683,1362939,47267,High Middle,54,50-59,4,1,M ,4,Kevin                                                       ,Woolf                                                       ,NY  ,Northeast
+684,1362674,0,,16,10-19,1,0,M ,1,Forrest                                                     ,Powers                                                      ,TX  ,South
+685,1362735,16986,Low Middle,40,40-49,0,0,F ,1,Lillian                                                     ,Carrington                                                  ,NJ  ,Northeast
+686,1363408,36603,Low Middle,65,60-69,5,0,M ,2,Dick                                                        ,Greene                                                      ,NY  ,Northeast
+687,1363204,23294,Low Middle,51,50-59,1,1,F ,2,Kristy                                                      ,Mealhouse                                                   ,IL  ,Midwest
+688,1362531,44742,High Middle,31,30-39,1,2,F ,2,Cinda                                                       ,Mennel                                                      ,IL  ,Midwest
+689,1363469,0,,17,10-19,2,0,F ,1,Ida                                                         ,Gardner                                                     ,KY  ,South
+690,1362796,18663,Low Middle,39,30-39,9,3,M ,2,Mike                                                        ,McCreary                                                    ,WA  ,West
+691,1362592,65024,High Middle,43,40-49,3,0,F ,2,Colin                                                       ,Reynolds                                                    ,OH  ,Midwest
+692,1363265,24843,Low Middle,61,60-69,1,0,M ,2,Drew                                                        ,Hoyer                                                       ,NY  ,Northeast
+693,1363326,75890,High Middle,40,40-49,0,0,M ,3,Ken                                                         ,Cox                                                         ,CA  ,West
+694,1362857,8088,Lowest,84,80-89,4,0,M ,1,Mahesh                                                      ,Besecker                                                    ,WI  ,Midwest
+695,1362918,17174,Low Middle,81,80-89,1,0,M ,2,Walter                                                      ,Gavin                                                       ,CA  ,West
+696,1362653,31641,Low Middle,47,40-49,7,2,F ,2,Janice                                                      ,Olszewski                                                   ,TX  ,South
+697,1363387,4247,Lowest,55,50-59,5,1,F ,2,Tammy                                                       ,Funke                                                       ,MI  ,Midwest
+698,1362714,14458,Lowest,49,40-49,9,0,F ,2,Charlotte                                                   ,Henry                                                       ,IN  ,Midwest
+699,1363183,46870,High Middle,59,50-59,9,0,M ,2,Bill                                                        ,Madden                                                      ,CA  ,West
+700,1362510,10800,Lowest,89,80-89,9,0,F ,2,Lynn                                                        ,Larson                                                      ,IN  ,Midwest
+701,1362775,12072,Lowest,69,60-69,9,0,F ,2,Lisa                                                        ,Nolan                                                       ,TN  ,South
+702,1362979,12664,Lowest,55,50-59,5,1,F ,4,Kitty                                                       ,Sandell                                                     ,IL  ,Midwest
+703,1363244,20218,Low Middle,34,30-39,4,2,F ,2,Edith                                                       ,Gavin                                                       ,TN  ,South
+704,1363448,27239,Low Middle,57,50-59,7,0,M ,1,DeWayne                                                     ,Ferguson                                                    ,CA  ,West
+705,1363040,38803,Low Middle,41,40-49,1,2,M ,2,Richard                                                     ,Cooper                                                      ,NY  ,Northeast
+706,1362571,6108,Lowest,19,10-19,4,0,M ,1,Rolf                                                        ,Lawrence                                                    ,NM  ,West
+707,1362632,49863,High Middle,55,50-59,5,0,M ,2,David                                                       ,MacMullen                                                   ,TX  ,South
+708,1362836,5920,Lowest,66,60-69,6,0,F ,3,Jane                                                        ,McConahay                                                   ,TN  ,South
+709,1362897,0,,17,10-19,2,0,M ,1,Anthony                                                     ,McSherry                                                    ,NY  ,Northeast
+710,1363305,23731,Low Middle,22,20-29,1,0,M ,2,Les                                                         ,Petersen                                                    ,AZ  ,West
+711,1363366,62234,High Middle,30,30-39,0,3,F ,2,Molly                                                       ,Shaw                                                        ,NY  ,Northeast
+712,1363101,52903,High Middle,40,40-49,0,0,F ,3,Nellie                                                      ,Arnold                                                      ,TX  ,South
+713,1362489,55888,High Middle,35,30-39,5,2,F ,3,Inge                                                        ,Cassidy                                                     ,TN  ,South
+714,1362693,2620,Lowest,22,20-29,1,0,M ,1,Doug                                                        ,Rebelo                                                      ,PA  ,Northeast
+715,1362754,12158,Lowest,35,30-39,5,3,F ,4,Sue                                                         ,Perkins                                                     ,CA  ,West
+716,1363427,83366,Highest,46,40-49,6,0,F ,1,Rita                                                        ,Burtin                                                      ,NY  ,Northeast
+717,1363223,24368,Low Middle,33,30-39,3,3,F ,2,Marylee                                                     ,Murray                                                      ,NJ  ,Northeast
+718,1362550,0,,15,10-19,0,0,M ,1,Parvadha                                                    ,O'Malley                                                    ,NY  ,Northeast
+719,1362611,24115,Low Middle,48,40-49,8,1,F ,2,Caroline                                                    ,Puente                                                      ,TX  ,South
+720,1363019,32581,Low Middle,33,30-39,3,2,F ,2,Diana                                                       ,Sakai                                                       ,AZ  ,West
+721,1363080,0,,13,10-19,5,0,F ,1,Evelyn                                                      ,McVicker                                                    ,HI  ,West
+722,1362815,0,,17,10-19,2,0,M ,1,Marty                                                       ,Eubanks                                                     ,IL  ,Midwest
+723,1363345,54713,High Middle,55,50-59,5,1,F ,2,Elias                                                       ,Sandham                                                     ,AZ  ,West
+724,1363284,36614,Low Middle,38,30-39,5,1,M ,4,Robin                                                       ,Endicott                                                    ,FL  ,South
+725,1362937,46461,High Middle,52,50-59,2,1,M ,2,Don                                                         ,Fitzgerald                                                  ,TX  ,South
+726,1362876,15139,Low Middle,63,60-69,3,0,M ,2,Danny                                                       ,McLaughlin                                                  ,AL  ,South
+727,1362590,2466,Lowest,62,60-69,2,0,M ,1,Arthur                                                      ,Simpson                                                     ,IN  ,Midwest
+728,1362672,16319,Low Middle,50,50-59,0,1,F ,2,Norma                                                       ,Powers                                                      ,TX  ,South
+729,1363059,24744,Low Middle,30,30-39,0,0,F ,1,Vivian                                                      ,Garner                                                      ,CA  ,West
+730,1363141,18920,Low Middle,51,50-59,1,0,F ,1,Norma                                                       ,Crosby                                                      ,MO  ,Midwest
+731,1363385,2314,Lowest,88,80-89,8,0,F ,2,Kimberly                                                    ,Stull                                                       ,OK  ,South
+732,1362529,43829,High Middle,43,40-49,3,0,F ,1,Charlotte                                                   ,Harper                                                      ,KY  ,South
+733,1362508,9802,Lowest,66,60-69,6,0,F ,3,Pat                                                         ,Hays                                                        ,MO  ,Midwest
+734,1362998,0,,17,10-19,2,0,F ,1,Sheila                                                      ,Johnson                                                     ,PA  ,Northeast
+735,1363242,4431,Lowest,62,60-69,2,0,M ,3,Jon                                                         ,Klein                                                       ,PA  ,Northeast
+736,1363467,29521,Low Middle,48,40-49,4,0,F ,1,Linda                                                       ,Schnack                                                     ,NY  ,Northeast
+737,1363038,36605,Low Middle,40,40-49,0,1,F ,4,Connie                                                      ,Dole                                                        ,OK  ,South
+738,1363263,13269,Lowest,50,50-59,0,1,M ,2,Eric                                                        ,Henry                                                       ,NJ  ,Northeast
+739,1362630,15864,Low Middle,66,60-69,6,0,F ,1,Ruby                                                        ,Talbot                                                      ,CA  ,West
+740,1362855,2289,Lowest,34,30-39,4,0,F ,2,Marsha                                                      ,Vo                                                          ,TX  ,South
+741,1363099,0,,15,10-19,0,0,F ,1,Robin                                                       ,Justice                                                     ,HI  ,West
+742,1363324,14795,Lowest,36,30-39,6,1,F ,4,Lillian                                                     ,Kaufman                                                     ,CA  ,West
+743,1362895,26387,Low Middle,56,50-59,6,1,M ,2,Marty                                                       ,McSherry                                                    ,NY  ,Northeast
+744,1362569,61300,High Middle,50,50-59,0,2,M ,2,Ken                                                         ,Lawrence                                                    ,NM  ,West
+745,1363364,15100,Low Middle,37,30-39,7,0,F ,2,Debbie                                                      ,Runner                                                      ,AL  ,South
+746,1363303,17875,Low Middle,18,10-19,3,0,F ,1,Molly                                                       ,Potter                                                      ,CA  ,West
